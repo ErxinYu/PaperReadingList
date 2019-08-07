@@ -1,4 +1,4 @@
-# Relation-extraction-read-list
+# Relation-Extraction-Reading-List
 
 Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015.[paper](http://www.google.com/)
 
