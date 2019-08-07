@@ -16,7 +16,7 @@ Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction.
 
 Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions. NAACL 2019[paper](https://pdfs.semanticscholar.org/d037/67e0d40d257165bc3faff9c7fa68cdc93035.pdf?_ga=2.239529667.1922655975.1565091217-775842260.1562830956)
 
-Reinforcement Learning for Relation Classification from Noisy Data. AAAI 2018[paper](file:///D:/download/17151-76902-1-PB.pdf)
+Reinforcement Learning for Relation Classification from Noisy Data. AAAI 2018[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17151)
 
 Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016 [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
 
