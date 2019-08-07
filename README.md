@@ -2,7 +2,7 @@
 
 
 
-Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015.[paper](http://www.google.com/)
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015.[paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
 
 Neural Relation Extraction with Selective Attention over Instances. ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf)
 
