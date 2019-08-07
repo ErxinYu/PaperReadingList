@@ -2,8 +2,6 @@
 
 
 
-Flase negtive
-------------
 Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015.[paper](http://www.google.com/)
 
 Neural Relation Extraction with Selective Attention over Instances. ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf)
