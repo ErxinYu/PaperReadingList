@@ -24,6 +24,8 @@ Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embed
 
 Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction. IJCAI 2018[paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
 
+Exploiting Noisy Data in Distant Supervison Relation Classification. NAACL 2019[paper](https://www.aclweb.org/anthology/N19-1325)
+
 GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019[paper](https://www.aclweb.org/anthology/N19-1307)
 
 DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction. ACL 2019[paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
