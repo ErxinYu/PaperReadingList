@@ -1,6 +1,6 @@
 # Relation-Extraction-Reading-List
 
-[Paper Deadlin] (https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+[Paper Deadlin](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
 Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
 
