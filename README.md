@@ -34,3 +34,5 @@ Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention. EMNLP 20
 Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks. NAACL 2019 [paper](https://www.aclweb.org/anthology/N19-1306)
 
 Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction. ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1134)
+
+
