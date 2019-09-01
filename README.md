@@ -1,6 +1,6 @@
 # Distant-Supervision-Relation-Extraction-Reading-List
 
-##[Paper Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+## [Paper Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
 Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
 
@@ -27,7 +27,7 @@ Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relati
 
 
 
-##Paper With Redistributed Dataset
+## Paper With Redistributed Dataset
 
 Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding. EMNLP 2018 [paper](https://www.aclweb.org/anthology/D18-1248)
 
