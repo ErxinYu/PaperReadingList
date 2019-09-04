@@ -41,3 +41,8 @@ Reinforcement Learning for Relation Classification from Noisy Data. AAAI 2018 [p
 Exploiting Noisy Data in Distant Supervison Relation Classification. NAACL 2019 [paper](https://www.aclweb.org/anthology/N19-1325)
 
 GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019 [paper](https://www.aclweb.org/anthology/N19-1307)
+
+## Others
+
+A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019 [paper](A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification)
+
