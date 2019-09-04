@@ -46,7 +46,9 @@ GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019 [paper](h
 
 A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019 [paper](https://arxiv.org/pdf/1809.03118.pdf)
 
-Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR [paper]（http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf）
+Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
+
+Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction. ACL2010 (https://www.aclweb.org/anthology/P09-1114)
 
 
 
