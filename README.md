@@ -48,7 +48,7 @@ A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAA
 
 Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
-Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction. ACL2010 (https://www.aclweb.org/anthology/P09-1114)
+Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction. ACL2010 [paper](https://www.aclweb.org/anthology/P09-1114)
 
 
 
