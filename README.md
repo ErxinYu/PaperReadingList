@@ -44,5 +44,5 @@ GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019 [paper](h
 
 ## Others
 
-A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019 [paper](A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification)
+A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019 [paper](https://arxiv.org/pdf/1809.03118.pdf)
 
