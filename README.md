@@ -56,3 +56,6 @@ Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR [paper](ht
 Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction. ACL2010 [paper](https://www.aclweb.org/anthology/P09-1114)
 
 Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019 [paper](https://arxiv.org/pdf/1908.10419.pdf)
+
+##Resources
+NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
