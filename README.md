@@ -59,17 +59,17 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 ## Entity Linking
 
-Zero-Shot Entity Linking by Reading Entity Descriptions. *Phong Le and Ivan Titov*. ACL 2019. [paper](https://arxiv.org/pdf/1906.07348.pdf)
+1.Zero-Shot Entity Linking by Reading Entity Descriptions. *Phong Le and Ivan Titov*. ACL 2019. [paper](https://arxiv.org/pdf/1906.07348.pdf)
 
-Distant Learning for Entity Linking with Automatic Noise Detection. *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee*. ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1400.pdf)
+2.Distant Learning for Entity Linking with Automatic Noise Detection. *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee*. ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1400.pdf)
 
-Boosting Entity Linking Performance by Leveraging Unlabeled Documents. *Phong Le and Ivan Titov*. ACL 2019. [paper](https://arxiv.org/pdf/1906.01250.pdf)
+3.Boosting Entity Linking Performance by Leveraging Unlabeled Documents. *Phong Le and Ivan Titov*. ACL 2019. [paper](https://arxiv.org/pdf/1906.01250.pdf)
 
-Fine-Grained Evaluation for Entity Linking. *Henry Rosales-Méndez, Aidan Hogan and Barbara Poblete*. EMNLP 2019. [paper](http://aidanhogan.com/docs/fine_grained_entity_linking.pdf)
+4.Fine-Grained Evaluation for Entity Linking. *Henry Rosales-Méndez, Aidan Hogan and Barbara Poblete*. EMNLP 2019. [paper](http://aidanhogan.com/docs/fine_grained_entity_linking.pdf)
 
-Learning Dynamic Context Augmentation for Global Entity Linking. *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang, Yueting Zhuang, Fei Wu, Zhigang Chen, Guoping Hu and Xiang Ren*. EMNLP 2019. [paper](https://arxiv.org/pdf/1909.02117.pdf)
+5.Learning Dynamic Context Augmentation for Global Entity Linking. *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang, Yueting Zhuang, Fei Wu, Zhigang Chen, Guoping Hu and Xiang Ren*. EMNLP 2019. [paper](https://arxiv.org/pdf/1909.02117.pdf)
 
-Improving Fine-grained Entity Typing with Entity Linking. *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song*. EMNLP. 2019(short paper). [paper](https://arxiv.org/pdf/1909.12079.pdf)
+6.Improving Fine-grained Entity Typing with Entity Linking. *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song*. EMNLP. 2019(short paper). [paper](https://arxiv.org/pdf/1909.12079.pdf)
 
 
 
