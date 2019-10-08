@@ -77,7 +77,7 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 ## Entity Recognition and Linking
 
-Joint Learning of Named Entity Recognition and Entity Linking. *Pedro Henrique Martins, Zita Marinho and André F. T. Martins*. ACL 2019(workshop). [paper](https://arxiv.org/pdf/1907.08243.pdf)
+1. **Joint Learning of Named Entity Recognition and Entity Linking.** *Pedro Henrique Martins, Zita Marinho and André F. T. Martins.* ACL 2019(workshop). [paper](https://arxiv.org/pdf/1907.08243.pdf)
 
 
 ## Resources
