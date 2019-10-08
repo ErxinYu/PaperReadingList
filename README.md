@@ -69,7 +69,7 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 5. **Learning Dynamic Context Augmentation for Global Entity Linking.** *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang, Yueting Zhuang, Fei Wu, Zhigang Chen, Guoping Hu and Xiang Ren.* EMNLP 2019. [paper](https://arxiv.org/pdf/1909.02117.pdf)
 
-6. **Improving Fine-grained Entity Typing with Entity Linking.** *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song.* EMNLP. 2019(short paper). [paper](https://arxiv.org/pdf/1909.12079.pdf)
+6. **Improving Fine-grained Entity Typing with Entity Linking.** *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song.* EMNLP 2019(short paper). [paper](https://arxiv.org/pdf/1909.12079.pdf)
 
 
 
