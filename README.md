@@ -59,10 +59,25 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019 [pa
 
 ## Entity Linking
 
-Zero-Shot Entity Linking by Reading Entity Descriptions. *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee*. ACL 2019 [paper](https://arxiv.org/pdf/1906.07348.pdf)
+Zero-Shot Entity Linking by Reading Entity Descriptions. *Phong Le and Ivan Titov*. ACL 2019 [paper](https://arxiv.org/pdf/1906.07348.pdf)
+
+Distant Learning for Entity Linking with Automatic Noise Detection. *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee*. ACL 2019 [paper](https://www.aclweb.org/anthology/P19-1400.pdf)
+
+Boosting Entity Linking Performance by Leveraging Unlabeled Documents. *Phong Le and Ivan Titov*. ACL 2019 [paper](https://arxiv.org/pdf/1906.01250.pdf)
+
+Fine-Grained Evaluation for Entity Linking. *Henry Rosales-Méndez, Aidan Hogan and Barbara Poblete*. EMNLP 2019 [paper](http://aidanhogan.com/docs/fine_grained_entity_linking.pdf)
+
+Learning Dynamic Context Augmentation for Global Entity Linking. *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang, Yueting Zhuang, Fei Wu, Zhigang Chen, Guoping Hu and Xiang Ren*. EMNLP 2019 [paper](https://arxiv.org/pdf/1909.02117.pdf)
+
+Improving Fine-grained Entity Typing with Entity Linking. *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song*. EMNLP 2019(short paper) [paper](https://arxiv.org/pdf/1909.12079.pdf)
+
 
 
 
 ## Entity Recognition and Linking
+
+Joint Learning of Named Entity Recognition and Entity Linking. *Pedro Henrique Martins, Zita Marinho and André F. T. Martins*. ACL 2019(workshop) [paper](https://arxiv.org/pdf/1907.08243.pdf)
+
+
 ## Resources
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
