@@ -1,8 +1,9 @@
 # Distant-Supervision-Relation-Extraction-Reading-List
 
-## [Paper Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 
-## Paper Website
+## Conference Website
+[Paper Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+
 [ACL 2019](http://www.acl2019.org/EN/program.xhtml)
 
 [EMNLP2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
