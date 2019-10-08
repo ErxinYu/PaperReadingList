@@ -1,4 +1,4 @@
-# Distant-Supervision-Relation-Extraction-Reading-List
+# Paper Reading List
 
 
 ## Conference Website
