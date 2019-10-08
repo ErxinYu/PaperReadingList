@@ -58,6 +58,11 @@ Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction. ACL2010 
 Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019 [paper](https://arxiv.org/pdf/1908.10419.pdf)
 
 ## Entity Linking
+
+Zero-Shot Entity Linking by Reading Entity Descriptions. *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee*. ACL 2019 [paper](https://arxiv.org/pdf/1906.07348.pdf)
+
+
+
 ## Entity Recognition and Linking
 ## Resources
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
