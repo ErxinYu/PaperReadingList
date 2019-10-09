@@ -92,9 +92,15 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 12. **SIRIUS-LTG: An Entity Linking Approach to Fact Extraction and Verification.** *Farhad Nooralahzadeh, Lilja Øvrelid.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/W18-5519.pdf)
 
+13. **Cross-Lingual Entity Linking for Web Tables.** *Xusheng Luo, Kangqi Luo, Xianyang Chen, Kenny Q. Zhu.* AAAI 2018. [paper](https://pdfs.semanticscholar.org/36c2/83931b8d4c99d41d7ea010cefe972af7632a.pdf)
 
+14. **DeepType: Multilingual Entity Linking by Neural Type System Evolution.** *Jonathan Raiman, Olivier Raiman.* AAAI 2018. [paper](https://pdfs.semanticscholar.org/36c2/83931b8d4c99d41d7ea010cefe972af7632a.pdf)
 
+15. **Neural Cross-Lingual Entity Linking.** *Avirup Sil, Gourab Kundu, Radu Florian, Wael Hamza.* AAAI2018. [paper](https://arxiv.org/pdf/1712.01813.pdf)
 
+16. **CoLink: An Unsupervised Framework for User Identity Linkage.** *Zexuan Zhong, Yong Cao, Yong Cao, Mu Guo, Mu Guo, Zaiqing Nie, Zaiqing Nie.* AAAI2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287)
+
+17. **Task-Specific Representation Learning for Web-Scale Entity Disambiguation.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* AAAI2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287)
 
 ## Entity Recognition and Linking
 
