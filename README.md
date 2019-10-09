@@ -84,6 +84,17 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 9. **Zero-shot Neural Transfer for Cross-lingual Entity Linking.** *Shruti Rijhwani, Jiateng Xie, Graham Neubig, Jaime Carbonell.* AAAI 2019. [paper](https://arxiv.org/pdf/1811.04154.pdf)
 
+9. **Effective Use of Context in Noisy Entity Linking.** *David Mueller, Greg Durrett.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1126.pdf)
+
+10. **Entity Linking within a Social Media Platform: A Case Study on Yelp.** *Hongliang Dai,Yangqiu Song,Liwei Qiu and Rijia Liu.* EMNLP 2018. [paper](http://www.cse.ust.hk/~yqsong/papers/2018-EMNLP-YelpLink.pdf)
+
+11. **Joint Multilingual Supervision for Cross-lingual Entity Linking.** *Shyam Upadhyay, Nitish Gupta, Dan Roth.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.07657.pdf)
+
+12. **SIRIUS-LTG: An Entity Linking Approach to Fact Extraction and Verification.** *Farhad Nooralahzadeh, Lilja Øvrelid.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/W18-5519.pdf)
+
+
+
+
 
 ## Entity Recognition and Linking
 
