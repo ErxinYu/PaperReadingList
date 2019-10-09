@@ -76,7 +76,9 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 7. **Improving Fine-grained Entity Typing with Entity Linking.** *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song.* EMNLP 2019(short paper). [paper](https://arxiv.org/pdf/1909.12079.pdf)
 
+8. **Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning.** *Mengge Xue, Weiming Cai, Jinsong Su, Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang.* IJCAI 2019. [paper](https://arxiv.org/pdf/1906.09320.pdf)
 
+9. **Zero-shot Neural Transfer for Cross-lingual Entity Linking.** *Shruti Rijhwani, Jiateng Xie, Graham Neubig, Jaime Carbonell.* AAAI 2019. [paper](https://arxiv.org/pdf/1811.04154.pdf)
 
 
 ## Entity Recognition and Linking
