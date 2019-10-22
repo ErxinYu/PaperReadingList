@@ -106,6 +106,8 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 1. **Joint Learning of Named Entity Recognition and Entity Linking.** *Pedro Henrique Martins, Zita Marinho and André F. T. Martins.* ACL 2019(workshop). [paper](https://arxiv.org/pdf/1907.08243.pdf)
 
+## End2End RE and KBC
+1. **Neural Relation Extraction for Knowledge Base Enrichment.** *Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi, Rui Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1023.pdf)
 
 ## Resources
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
