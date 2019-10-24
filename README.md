@@ -109,5 +109,9 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 ## End2End RE and KBC
 1. **Neural Relation Extraction for Knowledge Base Enrichment.** *Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi, Rui Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1023.pdf)
 
+## Word Sense Disambiguation
+1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
+
+
 ## Resources
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
