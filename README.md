@@ -12,6 +12,20 @@
 
 [EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
 
+## Word Sense Disambiguation
+1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
+
+2. **Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation.** *Daniel Loureiro, Alipio Jorge.* ACL 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
+
+3. Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation.
+
+4. **Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations.** *Christian Hadiwinoto, Hwee Tou Ng, and Wee Chung Gan.* EMNLP 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
+
+5. **GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge.** *Luyao Huang, Chi Sun, Xipeng Qiu, Xuanjing Huang.* EMNLP 2019. [paper](https://arxiv.org/pdf/1908.07245.pdf) [code](https://github.com/HSLCY/GlossBERT)
+
+6. Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations.
+
+
 ## Paper With Original Dataset
 Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
 
@@ -109,8 +123,7 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 ## End2End RE and KBC
 1. **Neural Relation Extraction for Knowledge Base Enrichment.** *Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi, Rui Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1023.pdf)
 
-## Word Sense Disambiguation
-1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
+
 
 
 ## Resources
