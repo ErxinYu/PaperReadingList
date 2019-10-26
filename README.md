@@ -25,6 +25,7 @@
 
 6. Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations.
 
+7. **Incorporating Dictionary Knowledge into Neural Word Sense Disambiguation.** *Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui.* ACL 2019. [paper](https://www.aclweb.org/anthology/P18-1230.pdf) [code](https://github.com/luofuli/word-sense-disambiguation)
 
 ## Paper With Original Dataset
 Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
