@@ -129,3 +129,4 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 ## Resources
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
+ThuNLP [NRE]https://github.com/thunlp/OpenNRE/tree/old_version
