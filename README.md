@@ -12,6 +12,10 @@
 
 [EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
 
+## Long-tail Relation Rxtraction
+
+1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
+
 ## Word Sense Disambiguation
 1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
 
