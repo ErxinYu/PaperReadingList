@@ -12,6 +12,16 @@
 
 [EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
 
+## Label Embedding
+
+1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 、
+
+2. **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1087.pdf)
+
+3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
+
+4. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
+
 ## Long-tail Relation Rxtraction
 
 1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
