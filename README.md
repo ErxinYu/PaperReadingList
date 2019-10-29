@@ -16,7 +16,7 @@
 
 1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
-2. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1306)
+2. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1306)
 
 3. **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
 
