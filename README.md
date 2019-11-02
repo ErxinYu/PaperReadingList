@@ -133,11 +133,13 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 17. **Task-Specific Representation Learning for Web-Scale Entity Disambiguation.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* AAAI2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287)
 
+17. **TabEL: Entity Linking in Web Tables.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* ISWC2015. [paper](http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf)
+
 ## Entity Recognition and Linking
 
 1. **Joint Learning of Named Entity Recognition and Entity Linking.** *Pedro Henrique Martins, Zita Marinho and André F. T. Martins.* ACL 2019(workshop). [paper](https://arxiv.org/pdf/1907.08243.pdf)
 
-2. **End-to-End Neural Entity Linking.** *Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann.* CONLL 2018. [paper](https://arxiv.org/abs/1808.07699) [code](https://github.com/dalab/end2end_neural_el)
+2. **End-to-End Neural Entity Linking.** *Chandra Sekhar Bhagavatula(B), Thanapon Noraset, and Doug Downey.* CONLL 2018. [paper](https://arxiv.org/abs/1808.07699) [code](https://github.com/dalab/end2end_neural_el)
 
 ## End2End RE and KBC
 1. **Neural Relation Extraction for Knowledge Base Enrichment.** *Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi, Rui Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1023.pdf)
