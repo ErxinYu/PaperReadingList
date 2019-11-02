@@ -133,7 +133,11 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 17. **Task-Specific Representation Learning for Web-Scale Entity Disambiguation.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* AAAI2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287)
 
-17. **TabEL: Entity Linking in Web Tables.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* ISWC2015. [paper](http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf)
+18. **TabEL: Entity Linking in Web Tables.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* ISWC2015. [paper](http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf)
+
+19. **Entity Linking in Web Tables with Multiple Linked Knowledge Bases.** *Tianxing Wu, Shengjia Yan, Zhixin Piao, Liang Xu,
+Ruiming Wang, Guilin Qi.* JSIT2016. [paper](https://yanshengjia.com/file/jist2016.pdf)
+
 
 ## Entity Recognition and Linking
 
