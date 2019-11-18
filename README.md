@@ -21,7 +21,7 @@
 3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
 
 4. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
-## Relation extraction
+## Relation Extraction
 ### Long-tail Relation Rxtraction
 
 1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
