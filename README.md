@@ -28,8 +28,9 @@
 
 2. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1306)
 
-3. **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
+3. **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
 
+4. **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://aclweb.org/anthology/D18-1247)
 
 ## Word Sense Disambiguation
 1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
@@ -56,8 +57,6 @@ Neural Relation Extraction with Selective Attention over Instances. ACL 2016. [p
 Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
 
 Large Scaled Relation Extraction with Reinforcement Learning. AAAI 2018.  [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
-
-Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention. EMNLP 2018. [paper](https://aclweb.org/anthology/D18-1247)
 
 Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction. AAAI 2019. [paper](https://arxiv.org/pdf/1812.10604.pdf)
 
