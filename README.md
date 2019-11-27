@@ -156,3 +156,14 @@ Ruiming Wang, Guilin Qi.* JSIT2016. [paper](https://yanshengjia.com/file/jist201
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
 
 ThuNLP [NRE](https://github.com/thunlp/OpenNRE/tree/old_version)
+
+## Multi-label classification
+Multi-Label Learning with Global and Local Label Correlation
+Exploring Correlation between Labels to improve Multi-Label Classification
+Multi-Label Learning by Exploiting Label Correlations Locally
+SGM: Sequence Generation Model for Multi-label Classification
+Deep Learning with a Rethinking Structure for Multi-label Classification
+
+
+
+
