@@ -25,10 +25,10 @@ DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Re
 - **Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions.** NAACL 2019. [paper](https://pdfs.semanticscholar.org/d037/67e0d40d257165bc3faff9c7fa68cdc93035.pdf?_ga=2.239529667.1922655975.1565091217-775842260.1562830956)
 
 - **Exploiting Noisy Data in Distant Supervison Relation Classification.** NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1325)
-> Paper With Redistributed Dataset  
+  > Paper With Redistributed Dataset  
 
 - **GAN driven Semi-distant Supervison for Relation Extraction.** NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1307)
-> Paper With Redistributed Dataset  
+  > Paper With Redistributed Dataset  
 
 - **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction.** AAAI 2019. [paper](https://arxiv.org/pdf/1812.10604.pdf)
 
@@ -36,10 +36,10 @@ DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Re
   >Paper With Redistributed Dataset  
 
 - **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.** ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1046)
-> Paper With Redistributed Dataset  
+  > Paper With Redistributed Dataset  
 
 - **Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding.** EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1248)
-> Paper With Redistributed Dataset  
+  > Paper With Redistributed Dataset  
 
 
 - **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://aclweb.org/anthology/D18-1247)
