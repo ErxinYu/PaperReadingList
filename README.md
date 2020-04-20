@@ -14,6 +14,7 @@
 
 
 |               | 2019          |
+| ------------- | ------------- |
 | ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)s              |
 | EMNLP         | Content Cell  |
 | NAACL         | Content Cell  |
