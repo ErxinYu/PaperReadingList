@@ -2,6 +2,7 @@
 
 
 ## Conference Website
+[Conference DeadLine](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
 |               |    2019       |2018|
 | ------------- | ------------- |-----------|
 | ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)|
@@ -11,7 +12,38 @@
 
 
 # Task
-## Relation Extraction
+## Distantly Relation Extraction
+
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)  Comment: Paper With Original Dataset
+
+Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016. [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
+
+**Neural Relation Extraction with Selective Attention over Instances.** *Yankai Lin, Shiqi Shen, Zhiyuan Liu,, Huanbo Luan
+, Maosong Sun.* ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://github.com/thunlp/OpenNRE/tree/old_version)
+
+Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
+
+Large Scaled Relation Extraction with Reinforcement Learning. AAAI 2018.  [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
+
+Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction. AAAI 2019. [paper](https://arxiv.org/pdf/1812.10604.pdf)
+
+Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions. NAACL 2019. [paper](https://pdfs.semanticscholar.org/d037/67e0d40d257165bc3faff9c7fa68cdc93035.pdf?_ga=2.239529667.1922655975.1565091217-775842260.1562830956)
+
+DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction. ACL 2019. [paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
+
+### Paper With Redistributed Dataset
+
+Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding. EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1248)
+
+DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction. ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1046)
+
+Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning. ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1199)
+
+Reinforcement Learning for Relation Classification from Noisy Data. AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17151)
+
+Exploiting Noisy Data in Distant Supervison Relation Classification. NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1325)
+
+GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1307)
 ### Long-tail Relation Rxtraction
 
 1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
@@ -21,6 +53,15 @@
 3. **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
 
 4. **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://aclweb.org/anthology/D18-1247)
+
+
+
+
+
+
+
+
+
 
 ## Word Sense Disambiguation
 1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
@@ -37,42 +78,7 @@
 
 7. **Incorporating Dictionary Knowledge into Neural Word Sense Disambiguation.** *Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui.* ACL 2019. [paper](https://www.aclweb.org/anthology/P18-1230.pdf) [code](https://github.com/luofuli/word-sense-disambiguation)
 
-## Paper With Original Dataset
-Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
 
-Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016. [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
-
-**Neural Relation Extraction with Selective Attention over Instances.** *Yankai Lin, Shiqi Shen, Zhiyuan Liu,, Huanbo Luan
-, Maosong Sun.* ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://github.com/thunlp/OpenNRE/tree/old_version)
-
-
-Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
-
-Large Scaled Relation Extraction with Reinforcement Learning. AAAI 2018.  [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
-
-Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction. AAAI 2019. [paper](https://arxiv.org/pdf/1812.10604.pdf)
-
-Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions. NAACL 2019. [paper](https://pdfs.semanticscholar.org/d037/67e0d40d257165bc3faff9c7fa68cdc93035.pdf?_ga=2.239529667.1922655975.1565091217-775842260.1562830956)
-
-DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction. ACL 2019. [paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
-
-
-
-
-
-## Paper With Redistributed Dataset
-
-Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding. EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1248)
-
-DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction. ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1046)
-
-Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning. ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1199)
-
-Reinforcement Learning for Relation Classification from Noisy Data. AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17151)
-
-Exploiting Noisy Data in Distant Supervison Relation Classification. NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1325)
-
-GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1307)
 
 ## Others
 
