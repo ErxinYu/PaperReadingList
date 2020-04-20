@@ -42,7 +42,7 @@
   > Paper With Redistributed Dataset  
 
 
-- **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://aclweb.org/anthology/D18-1247)
+- **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1247.pdf)
 
 - **Large Scaled Relation Extraction with Reinforcement Learning.** AAAI 2018.  [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
 
