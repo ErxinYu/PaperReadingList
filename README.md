@@ -14,7 +14,6 @@
 
 
 
-# Task
 ## Distantly Relation Extraction
 
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
@@ -59,37 +58,28 @@ Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning. 
 
 - **Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks.** EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf) 
 
-### Other Relation Rxtraction (Supervied, few-shot, document-level, etc.)
+- **Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction.** ACL2010. [paper](https://www.aclweb.org/anthology/P09-1114)
+
+## Other Relation Rxtraction (Supervied, few-shot, document-level, etc.)
 
 1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
 
 ## Word Sense Disambiguation
-1. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
+-. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
 
-2. **Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation.** *Daniel Loureiro, Alipio Jorge.* ACL 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
+- **Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation.** *Daniel Loureiro, Alipio Jorge.* ACL 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
 
-3. Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation.
+- Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation.
 
-4. **Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations.** *Christian Hadiwinoto, Hwee Tou Ng, and Wee Chung Gan.* EMNLP 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
+- **Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations.** *Christian Hadiwinoto, Hwee Tou Ng, and Wee Chung Gan.* EMNLP 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
 
-5. **GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge.** *Luyao Huang, Chi Sun, Xipeng Qiu, Xuanjing Huang.* EMNLP 2019. [paper](https://arxiv.org/pdf/1908.07245.pdf) [code](https://github.com/HSLCY/GlossBERT)
+- **GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge.** *Luyao Huang, Chi Sun, Xipeng Qiu, Xuanjing Huang.* EMNLP 2019. [paper](https://arxiv.org/pdf/1908.07245.pdf) [code](https://github.com/HSLCY/GlossBERT)
 
-6. Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations.
+- Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations.
 
-7. **Incorporating Dictionary Knowledge into Neural Word Sense Disambiguation.** *Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui.* ACL 2019. [paper](https://www.aclweb.org/anthology/P18-1230.pdf) [code](https://github.com/luofuli/word-sense-disambiguation)
+- **Incorporating Dictionary Knowledge into Neural Word Sense Disambiguation.** *Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui.* ACL 2019. [paper](https://www.aclweb.org/anthology/P18-1230.pdf) [code](https://github.com/luofuli/word-sense-disambiguation)
 
-
-
-## Others
-
-A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper](https://arxiv.org/pdf/1809.03118.pdf)
-
-Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
-
-Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction. ACL2010. [paper](https://www.aclweb.org/anthology/P09-1114)
-
-Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
 
 ## Entity Linking
 
@@ -157,6 +147,15 @@ Exploring Correlation between Labels to improve Multi-Label Classification
 Multi-Label Learning by Exploiting Label Correlations Locally  
 SGM: Sequence Generation Model for Multi-label Classification  
 Deep Learning with a Rethinking Structure for Multi-label Classification
+
+## Others
+
+A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper](https://arxiv.org/pdf/1809.03118.pdf)
+
+Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
+
+
+Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
 
 ## Label Embedding
 
