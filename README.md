@@ -13,10 +13,10 @@
 [EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
 
 
-|               | 2019          |
+|               |               |
 | ------------- | ------------- |
-| ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)s              |
-| EMNLP         | Content Cell  |
+| ACL           | [2019](http://www.acl2019.org/EN/program.xhtml)|
+| EMNLP         | [2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)  |
 | NAACL         | Content Cell  |
 
 ## Label Embedding
