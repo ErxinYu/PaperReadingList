@@ -136,11 +136,6 @@ Ruiming Wang, Guilin Qi.* JSIT2016. [paper](https://yanshengjia.com/file/jist201
 ## End2End RE and KBC
 1. **Neural Relation Extraction for Knowledge Base Enrichment.** *Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi, Rui Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1023.pdf)
 
-
-
-
-
-# Tecnology 
 ## Multi-label classification
 Multi-Label Learning with Global and Local Label Correlation  
 Exploring Correlation between Labels to improve Multi-Label Classification  
@@ -148,7 +143,7 @@ Multi-Label Learning by Exploiting Label Correlations Locally
 SGM: Sequence Generation Model for Multi-label Classification  
 Deep Learning with a Rethinking Structure for Multi-label Classification
 
-## Others
+## Tecnology
 
 A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper](https://arxiv.org/pdf/1809.03118.pdf)
 
@@ -167,8 +162,8 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 4. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
 
-# Resources
-NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
+## Resources
+[funNLP](https://github.com/fighting41love/funNLP)
 
-ThuNLP [NRE](https://github.com/thunlp/OpenNRE/tree/old_version)
+[OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
 
