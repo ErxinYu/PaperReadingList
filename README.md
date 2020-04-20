@@ -14,9 +14,10 @@
 # Task
 ## Distantly Relation Extraction
 
-Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
->with original dataset
-Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016. [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
+1. Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
+>with original dataset  
+
+2. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016. [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
 
 **Neural Relation Extraction with Selective Attention over Instances.** *Yankai Lin, Shiqi Shen, Zhiyuan Liu,, Huanbo Luan
 , Maosong Sun.* ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://github.com/thunlp/OpenNRE/tree/old_version)
