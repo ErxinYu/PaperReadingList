@@ -47,7 +47,7 @@
 - **Large Scaled Relation Extraction with Reinforcement Learning.** AAAI 2018.  [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
 
 - **Reinforcement Learning for Relation Classification from Noisy Data.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17151)
-> Paper With Redistributed Dataset  
+  > Paper With Redistributed Dataset  
 
 - **Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction.** IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
 
