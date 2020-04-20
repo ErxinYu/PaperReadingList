@@ -12,6 +12,12 @@
 
 [EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
 
+
+|               | 2019          |
+| ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)s              |
+| EMNLP         | Content Cell  |
+| NAACL         | Content Cell  |
+
 ## Label Embedding
 
 1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
