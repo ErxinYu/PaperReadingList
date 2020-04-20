@@ -13,11 +13,12 @@
 [EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
 
 
-|               |               |
-| ------------- | ------------- |
-| ACL           | [2019](http://www.acl2019.org/EN/program.xhtml)|
-| EMNLP         | [2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)  |
-| NAACL         | Content Cell  |
+|               |    2019       |2018|
+| ------------- | ------------- |-----------|
+| ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)|
+| EMNLP         | [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)  |[EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)|
+| NAACL         | NAACL 2019  |
+|AAAI           |[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)|       
 
 ## Label Embedding
 
