@@ -33,7 +33,7 @@ DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Re
 - **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction.** AAAI 2019. [paper](https://arxiv.org/pdf/1812.10604.pdf)
 
 - **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.** ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1199)
->>> Paper With Redistributed Dataset  
+  >Paper With Redistributed Dataset  
 
 - **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.** ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1046)
 > Paper With Redistributed Dataset  
