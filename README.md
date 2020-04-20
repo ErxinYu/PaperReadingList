@@ -8,19 +8,25 @@
 | ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)|
 | EMNLP         | [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)  |[EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)|
 | NAACL         | NAACL 2019  |
-|AAAI           |[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)|       
+|coling         |              |
+|AAAI           |[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)| 
+|IJCAI          |IJCAI2019|
+
 
 
 # Task
 ## Distantly Relation Extraction
 
-1. Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
->with original dataset  
+- **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1306)
 
-2. Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016. [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
+- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
+
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks. EMNLP 2015. [paper](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf) 
+
+Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016. [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
 
 **Neural Relation Extraction with Selective Attention over Instances.** *Yankai Lin, Shiqi Shen, Zhiyuan Liu,, Huanbo Luan
-, Maosong Sun.* ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://github.com/thunlp/OpenNRE/tree/old_version)
+, Maosong Sun.*  2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://github.com/thunlp/OpenNRE/tree/old_version)
 
 Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
 
@@ -49,9 +55,7 @@ GAN driven Semi-distant Supervison for Relation Extraction. NAACL 2019. [paper](
 
 1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
-2. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1306)
 
-3. **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
 
 4. **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://aclweb.org/anthology/D18-1247)
 
