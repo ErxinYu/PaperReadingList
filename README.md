@@ -2,17 +2,6 @@
 
 
 ## Conference Website
-[Paper Deadline](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
-
-[ACL 2019](http://www.acl2019.org/EN/program.xhtml)
-
-[EMNLP2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)
-
-[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
-
-[EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)
-
-
 |               |    2019       |2018|
 | ------------- | ------------- |-----------|
 | ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)|
@@ -20,15 +9,8 @@
 | NAACL         | NAACL 2019  |
 |AAAI           |[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)|       
 
-## Label Embedding
 
-1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
-
-2. **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1087.pdf)
-
-3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
-
-4. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
+# Task
 ## Relation Extraction
 ### Long-tail Relation Rxtraction
 
@@ -160,18 +142,27 @@ Ruiming Wang, Guilin Qi.* JSIT2016. [paper](https://yanshengjia.com/file/jist201
 
 
 
-## Resources
+
+# Tecnology 
+## Multi-label classification
+Multi-Label Learning with Global and Local Label Correlation  
+Exploring Correlation between Labels to improve Multi-Label Classification  
+Multi-Label Learning by Exploiting Label Correlations Locally  
+SGM: Sequence Generation Model for Multi-label Classification  
+Deep Learning with a Rethinking Structure for Multi-label Classification
+
+## Label Embedding
+
+1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
+
+2. **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1087.pdf)
+
+3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
+
+4. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
+
+# Resources
 NLP tools.[funNLP](https://github.com/fighting41love/funNLP)
 
 ThuNLP [NRE](https://github.com/thunlp/OpenNRE/tree/old_version)
-
-## Multi-label classification
-Multi-Label Learning with Global and Local Label Correlation
-Exploring Correlation between Labels to improve Multi-Label Classification
-Multi-Label Learning by Exploiting Label Correlations Locally
-SGM: Sequence Generation Model for Multi-label Classification
-Deep Learning with a Rethinking Structure for Multi-label Classification
-
-
-
 
