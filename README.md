@@ -62,7 +62,10 @@
 
 ## Other Relation Rxtraction (Supervied, few-shot, document-level, etc.)
 
-1. **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
+- **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction.** *Wenxuan Zhou, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, Xiang Ren.* WWW 2020. [paper](https://arxiv.org/pdf/1909.02177.pdf) 
+
+- **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** 
+*Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
 
 ## Word Sense Disambiguation
@@ -166,4 +169,7 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 [funNLP](https://github.com/fighting41love/funNLP)
 
 [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
+
+
+
 
