@@ -10,7 +10,7 @@
 | NAACL         | NAACL 2019  |
 |coling         |              |
 |AAAI           |[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)| 
-|IJCAI          |IJCAI2019(https://www.ijcai19.org/accepted-papers.html)|
+|IJCAI          |[IJCAI2019](https://www.ijcai19.org/accepted-papers.html)|
 
 
 
@@ -32,7 +32,7 @@
 
 - **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction.** AAAI 2019. [paper](https://arxiv.org/pdf/1812.10604.pdf)
 
--**Relation Extraction Using Supervision from Topic Knowledge of Relation Labels.** *Haiyun Jiang, Li Cui, Zhe Xu, Deqing Yang, Jindong Chen, Chenguang Li, Jingping Liu, Jiaqing Liang, Chao Wang, Yanghua Xiao, Wei Wang IJCAI 2019.* [paper](https://www.ijcai.org/Proceedings/2019/0698.pdf)
+- **Relation Extraction Using Supervision from Topic Knowledge of Relation Labels.** *Haiyun Jiang, Li Cui, Zhe Xu, Deqing Yang, Jindong Chen, Chenguang Li, Jingping Liu, Jiaqing Liang, Chao Wang, Yanghua Xiao, Wei Wang IJCAI 2019.* [paper](https://www.ijcai.org/Proceedings/2019/0698.pdf)
 
 - **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.** ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1199)
   >Paper With Redistributed Dataset  
