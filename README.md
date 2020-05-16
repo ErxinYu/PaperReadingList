@@ -150,7 +150,10 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 
 ## Tecnology
 
-A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper](https://arxiv.org/pdf/1809.03118.pdf)
+A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper]
+(https://arxiv.org/pdf/1809.03118.pdf)
+
+Representation Learning of Knowledge Graphs with Hierarchical Types. IJCAI 2016.[paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_tkrl.pdf)
 
 Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
