@@ -16,6 +16,11 @@
 
 ## Distantly Relation Extraction
 
+
+- **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11899.pdf)
+
+- **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
+
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
 
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. [paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
@@ -63,6 +68,12 @@
 - **Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction.** ACL2010. [paper](https://www.aclweb.org/anthology/P09-1114)
 
 ## Other Relation Rxtraction (Supervied, few-shot, document-level, etc.)
+
+- **Integrating Relation Constraints with Neural Relation Extractors.** *ZYuan Ye, Yansong Feng, Bingfeng Luo, Yuxuan Lai, Dongyan Zhao.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11493.pdf) 
+
+- **Distilling Knowledge from Well-informed Soft Labels.** *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo.* AAAI 2020. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangZ.7408.pdf) 
+
+- **Relation Extraction Exploiting Full Dependency Forests.** *Lifeng Jin, Linfeng Song, Yue Zhang, Kun Xu, Wei-yun Ma and Dong Yu.* AAAI 2020. [paper](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) 
 
 - **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction.** *Wenxuan Zhou, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, Xiang Ren.* WWW 2020. [paper](https://arxiv.org/pdf/1909.02177.pdf) 
 
