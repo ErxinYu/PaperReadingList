@@ -81,76 +81,7 @@
 *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
 
-## Word Sense Disambiguation
--. **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings.** *Sawan Kumar, Sharmistha Jat, Karan Saxena and Partha Talukdar.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1568.pdf) [code](https://github.com/malllabiisc/EWISE)
 
-- **Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation.** *Daniel Loureiro, Alipio Jorge.* ACL 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
-
-- Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation.
-
-- **Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations.** *Christian Hadiwinoto, Hwee Tou Ng, and Wee Chung Gan.* EMNLP 2019. [paper](https://arxiv.org/pdf/1906.10007.pdf)
-
-- **GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge.** *Luyao Huang, Chi Sun, Xipeng Qiu, Xuanjing Huang.* EMNLP 2019. [paper](https://arxiv.org/pdf/1908.07245.pdf) [code](https://github.com/HSLCY/GlossBERT)
-
-- Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations.
-
-- **Incorporating Dictionary Knowledge into Neural Word Sense Disambiguation.** *Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui.* ACL 2019. [paper](https://www.aclweb.org/anthology/P18-1230.pdf) [code](https://github.com/luofuli/word-sense-disambiguation)
-
-
-## Entity Linking
-
-
-
-1. **Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions.** *Wei Shen, Jianyong Wang and Jiawei Han*. TKDE 2014. [paper](http://dbgroup.cs.tsinghua.edu.cn/wangjy/papers/TKDE14-entitylinking.pdf)
-
-2. **Zero-Shot Entity Linking by Reading Entity Descriptions.** *Phong Le and Ivan Titov*. ACL 2019. [paper](https://arxiv.org/pdf/1906.07348.pdf)
-
-3. **Distant Learning for Entity Linking with Automatic Noise Detection.** *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1400.pdf)
-
-4. **Boosting Entity Linking Performance by Leveraging Unlabeled Documents.** *Phong Le and Ivan Titov*. ACL 2019. [paper](https://arxiv.org/pdf/1906.01250.pdf)
-
-5. **Fine-Grained Evaluation for Entity Linking.** *Henry Rosales-Méndez, Aidan Hogan and Barbara Poblete.* EMNLP 2019. [paper](http://aidanhogan.com/docs/fine_grained_entity_linking.pdf)
-
-6. **Learning Dynamic Context Augmentation for Global Entity Linking.** *Xiyuan Yang, Xiaotao Gu, Sheng Lin, Siliang Tang, Yueting Zhuang, Fei Wu, Zhigang Chen, Guoping Hu and Xiang Ren.* EMNLP 2019. [paper](https://arxiv.org/pdf/1909.02117.pdf)
-
-7. **Improving Fine-grained Entity Typing with Entity Linking.** *Hongliang Dai, Donghong Du, Xin Li and Yangqiu Song.* EMNLP 2019(short paper). [paper](https://arxiv.org/pdf/1909.12079.pdf)
-
-8. **Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning.** *Mengge Xue, Weiming Cai, Jinsong Su, Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang.* IJCAI 2019. [paper](https://arxiv.org/pdf/1906.09320.pdf)
-
-9. **Zero-shot Neural Transfer for Cross-lingual Entity Linking.** *Shruti Rijhwani, Jiateng Xie, Graham Neubig, Jaime Carbonell.* AAAI 2019. [paper](https://arxiv.org/pdf/1811.04154.pdf)
-
-9. **Effective Use of Context in Noisy Entity Linking.** *David Mueller, Greg Durrett.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1126.pdf)
-
-10. **Entity Linking within a Social Media Platform: A Case Study on Yelp.** *Hongliang Dai,Yangqiu Song,Liwei Qiu and Rijia Liu.* EMNLP 2018. [paper](http://www.cse.ust.hk/~yqsong/papers/2018-EMNLP-YelpLink.pdf)
-
-11. **Joint Multilingual Supervision for Cross-lingual Entity Linking.** *Shyam Upadhyay, Nitish Gupta, Dan Roth.* EMNLP 2018. [paper](https://arxiv.org/pdf/1809.07657.pdf)
-
-12. **SIRIUS-LTG: An Entity Linking Approach to Fact Extraction and Verification.** *Farhad Nooralahzadeh, Lilja Øvrelid.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/W18-5519.pdf)
-
-13. **Cross-Lingual Entity Linking for Web Tables.** *Xusheng Luo, Kangqi Luo, Xianyang Chen, Kenny Q. Zhu.* AAAI 2018. [paper](https://pdfs.semanticscholar.org/36c2/83931b8d4c99d41d7ea010cefe972af7632a.pdf)
-
-14. **DeepType: Multilingual Entity Linking by Neural Type System Evolution.** *Jonathan Raiman, Olivier Raiman.* AAAI 2018. [paper](https://pdfs.semanticscholar.org/36c2/83931b8d4c99d41d7ea010cefe972af7632a.pdf)
-
-15. **Neural Cross-Lingual Entity Linking.** *Avirup Sil, Gourab Kundu, Radu Florian, Wael Hamza.* AAAI2018. [paper](https://arxiv.org/pdf/1712.01813.pdf)
-
-16. **CoLink: An Unsupervised Framework for User Identity Linkage.** *Zexuan Zhong, Yong Cao, Yong Cao, Mu Guo, Mu Guo, Zaiqing Nie, Zaiqing Nie.* AAAI2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287)
-
-17. **Task-Specific Representation Learning for Web-Scale Entity Disambiguation.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* AAAI2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287)
-
-18. **TabEL: Entity Linking in Web Tables.** *Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya Anirban Dasgupta, Soumen Chakrabarti‡.* ISWC2015. [paper](http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf)
-
-19. **Entity Linking in Web Tables with Multiple Linked Knowledge Bases.** *Tianxing Wu, Shengjia Yan, Zhixin Piao, Liang Xu,
-Ruiming Wang, Guilin Qi.* JSIT2016. [paper](https://yanshengjia.com/file/jist2016.pdf) [code](https://github.com/yanshengjia/jist2016)
-
-
-## Entity Recognition and Linking
-
-1. **Joint Learning of Named Entity Recognition and Entity Linking.** *Pedro Henrique Martins, Zita Marinho and André F. T. Martins.* ACL 2019(workshop). [paper](https://arxiv.org/pdf/1907.08243.pdf)
-
-2. **End-to-End Neural Entity Linking.** *Chandra Sekhar Bhagavatula(B), Thanapon Noraset, and Doug Downey.* CONLL 2018. [paper](https://arxiv.org/abs/1808.07699) [code](https://github.com/dalab/end2end_neural_el)
-
-## End2End RE and KBC
-1. **Neural Relation Extraction for Knowledge Base Enrichment.** *Bayu Distiawan Trisedya, Gerhard Weikum, Jianzhong Qi, Rui Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1023.pdf)
 
 ## Multi-label classification
 Multi-Label Learning with Global and Local Label Correlation  
