@@ -85,7 +85,7 @@
 
 - **Hierarchical Relation Extraction Based On Bidirectional Long Short-Term Memory Networks .** 
 *Jia Chen* ACL 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3335656.3335694) 
- > 并没有进行真正的hierachical relation extraction， 只是引入了hierarchical loss 在非NYT数据集上效果有一点提高。
+  > 并没有进行真正的hierachical relation extraction， 只是引入了hierarchical loss 在非NYT数据集上效果有一点提高。
 
 
 ## Multi-label classification
