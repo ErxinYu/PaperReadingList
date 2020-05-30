@@ -63,8 +63,6 @@
 
 - **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1247.pdf)
 
-- **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1247.pdf)
-
 - **Cooperative Denoising for Distantly Supervised Relation Extraction.** *Kai Lei, Daoyuan Chen, Yaliang Li, Nan Du, Min Yang, Wei Fan, Ying Shen.* COLING 2018. [paper](https://www.aclweb.org/anthology/C18-1036.pdf)
 
 - **Large Scaled Relation Extraction with Reinforcement Learning.** AAAI 2018.  [paper](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
