@@ -27,6 +27,17 @@
 
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. [paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
 
+
+- **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1037.pdf)
+
+- **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction.** *Yuyun Huang and Jinhua Du.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1037.pdf)
+
+- **Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction.** *Linmei Hu, Luhao Zhang, Chuan Shi, Liqiang Nie, Weili Guan and Cheng Yang.* EMNLP 2019. [paper](https://arxiv.org/pdf/1904.09331.pdf)
+
+- **Improving Distantly-Supervised Relation Extraction with Joint Label Embedding.** *Qinyuan Ye, Liyuan Liu, Maosen Zhang and Xiang Ren.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1395.pdf)
+
+- **Leveraging 2-hop Distant Supervision from Table Entity Pairs for Relation Extraction.** *xiang deng and Huan Sun.* EMNLP 2019. [paper](https://arxiv.org/pdf/1909.06007.pdf)
+
 - **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1306)
 
 - **Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions.** NAACL 2019. [paper](https://pdfs.semanticscholar.org/d037/67e0d40d257165bc3faff9c7fa68cdc93035.pdf?_ga=2.239529667.1922655975.1565091217-775842260.1562830956)
@@ -115,7 +126,6 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
 
-4. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
 
 ## Resources
 [funNLP](https://github.com/fighting41love/funNLP)
