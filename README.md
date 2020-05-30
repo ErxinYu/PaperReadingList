@@ -8,10 +8,15 @@
 |               |    2019       |2018|
 |---------------|----------------|------------------|
 | ACL           | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)|
+
 | EMNLP         | [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/)  |[EMNLP2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1)|
+
 | NAACL         | [NAACL 2019](https://naacl2019.org/program/accepted/)  |
-| COLING         |              |
+
+| COLING         | [COLING 2018](https://coling2018.org/index.html%3Fp=1556.html)|
+
 | AAAI           |[AAAI2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)| 
+
 | IJCAI          |[IJCAI2019](https://www.ijcai19.org/accepted-papers.html)|
 
 
