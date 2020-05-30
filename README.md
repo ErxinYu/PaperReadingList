@@ -106,7 +106,7 @@ Multi-Label Learning by Exploiting Label Correlations Locally
 SGM: Sequence Generation Model for Multi-label Classification  
 Deep Learning with a Rethinking Structure for Multi-label Classification
 
-## Tecnology
+## Avaiable Tecnology
 
 A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper]
 (https://arxiv.org/pdf/1809.03118.pdf)
