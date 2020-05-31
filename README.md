@@ -25,6 +25,8 @@
       总结:这篇效果不错，在0.4@recall的基础上可以达到 0.65 在没有利用额外信息的情况下达到了SOTA效果,有可以借鉴的地方，但是没有代码。这篇中提到         PCNN+HATT的效果 AUC是0.42，PCNN_ATT 是在one_sentence上比的 AUC达到0.35 ACC有78%(保持怀疑)
 
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
+  >   motivation是针对很多正例样本中的噪声，之前如果标错了就用att或者remove掉，现在用无监督的方法为这些label重新标一下(但是还没有明确标完之后怎么       处理) 中这里只针对正样例的标签改。 Noise Detector 判断哪些是Noisy、Valid、Ignore,根据bag_present的阈值。 Label Generator 根据聚类改       变标签。
+      总结: 效果比PCNN_ATT高一点，且在PR图上表示。
 
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang
 Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.12556.pdf)
