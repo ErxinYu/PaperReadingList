@@ -20,6 +20,14 @@
 
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11899.pdf)
+  >  提出了三个机制: 1.entity-aware embedding 在训练的过程中 动态的加强实体(位置)的权重,这个好像很有效果。2.提出self
+      -attention 补充PCNN 在捕捉long-term上的不足。3.提出Selective Gate,为了弥补att机制在one-sentence bag问题上的不足，实验证明确实有效         果。
+  
+  
+- **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11899.pdf)
+
+
+
 
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
 
