@@ -26,7 +26,8 @@
 
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
 
-- **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.12556.pdf)
+- **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang
+Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.12556.pdf)
 
 
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
