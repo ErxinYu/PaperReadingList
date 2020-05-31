@@ -30,6 +30,9 @@
 
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang
 Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.12556.pdf)
+  >  用强化学习 挑出句子中的噪声, 然后带噪声的句子标成Unlabeled, 结合Positive的句子的representation和unlabeled句子的representation。跟之前      强化学习比不同的是没有改变数据集分布。
+     总结: 效果相当不错。0.4@recall的基础上可以达到 0.5+。
+  
 
 
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
