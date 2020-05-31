@@ -20,9 +20,10 @@
 
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11899.pdf)
-  >  提出了三个机制: 1.entity-aware embedding 在训练的过程中 动态的加强实体(位置)的权重,这个好像很有效果。2.提出self
+  >   提出了三个机制: 1.entity-aware embedding 在训练的过程中 动态的加强实体(位置)的权重,这个好像很有效果。2.提出self
       -attention 补充PCNN 在捕捉long-term上的不足。3.提出Selective Gate,为了弥补att机制在one-sentence bag问题上的不足，实验证明确实有效         果。
-  
+      总结:这篇效果不错，在0.4@recall的基础上可以达到 0.65 在没有利用额外信息的情况下达到了SOTA效果,有可以借鉴的地方，但是没有代码。这篇中提到         PCNN+HATT的效果 AUC是0.42，PCNN_ATT 是在one_sentence上比的 AUC达到0.35 ACC有78%(保持怀疑)
+      
   
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11899.pdf)
 
