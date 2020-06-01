@@ -32,14 +32,13 @@
 Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.12556.pdf)
   >  用强化学习 挑出句子中的噪声, 然后带噪声的句子标成Unlabeled, 结合Positive的句子的representation和unlabeled句子的representation。跟之前      强化学习比不同的是没有改变数据集分布。
      总结: 效果相当不错。0.4@recall的基础上可以达到 0.5+。
-  
-
 
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134) [code](https://github.com/DFKI-NLP/DISTRE)
    >  利用transformer 模型进行编码 接上PCNN+ATT 结果有个特点就是召回率高的情况下下 准确率下降的慢，但是一开始的准确率不高。PCNN+ATT的auc在这篇文       章中是0.34左右。
 
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. [paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
 
+- **ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification.**  ** *Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1135.pdf)
 
 - **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1037.pdf)
 
@@ -107,11 +106,11 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 - **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** 
 *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
+- **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** 
+*Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
-- **Hierarchical Relation Extraction Based On Bidirectional Long Short-Term Memory Networks .** 
-*Jia Chen* ACL 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3335656.3335694) 
-  > 并没有进行真正的hierachical relation extraction， 只是引入了hierarchical loss 在非NYT数据集上效果有一点提高。
-
+- **Fine-Grained Temporal Relation Extraction .** 
+*Siddharth Vashishtha -University of Rochester* . [paper](https://www.aclweb.org/anthology/P19-1280.pdf) 
 
 ## Multi-label classification
 Multi-Label Learning with Global and Local Label Correlation  
