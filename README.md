@@ -35,7 +35,7 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
   
 
 
-- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134)
+- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1134) [code](https://github.com/DFKI-NLP/DISTRE)
    >  利用transformer 模型进行编码 接上PCNN+ATT 结果有个特点就是召回率高的情况下下 准确率下降的慢，但是一开始的准确率不高。PCNN+ATT的auc在这篇文       章中是0.34左右。
 
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. [paper](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
