@@ -70,6 +70,8 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 - **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.** ACL 2018.  [paper](https://www.aclweb.org/anthology/P18-1046)
   > Paper With Redistributed Dataset  
 
+- **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction.** *Ningyu Zhang.* ACL 2018(short paper).  [paper](https://www.aclweb.org/anthology/D18-1120.pdf)
+
 - **Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding.** EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1248)
   > Paper With Redistributed Dataset  
 
