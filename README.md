@@ -41,7 +41,7 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 
 - **ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification.**  ** *Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1135.pdf)
 
-- **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1037.pdf)
+- **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [paper](https://arxiv.org/pdf/1909.05448.pdf)
 
 - **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction.** *Yuyun Huang and Jinhua Du.* EMNLP 2019. [paper](https://www.aclweb.org/anthology/D19-1037.pdf)
 
@@ -77,6 +77,8 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
   > Paper With Redistributed Dataset  
 
 - **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1247.pdf)
+
+- **Multi-Level Structured Self-Attentions for Distantly Supervised Relation Extraction.** *Jinhua Du, Jingguang Han, Andy Way, Dadong Wan.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1245.pdf)
 
 - **Cooperative Denoising for Distantly Supervised Relation Extraction.** *Kai Lei, Daoyuan Chen, Yaliang Li, Nan Du, Min Yang, Wei Fan, Ying Shen.* COLING 2018. [paper](https://www.aclweb.org/anthology/C18-1036.pdf)
 
