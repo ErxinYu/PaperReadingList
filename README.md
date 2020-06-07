@@ -135,7 +135,7 @@ Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR. [paper](h
 
 Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
 
-## Label Embedding
+## Label Embedding, Label-Specific 
 
 1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
 
@@ -143,6 +143,12 @@ Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [p
 
 3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
 
+4. **Label-Specific Document Representation for Multi-Label Text Classification** *Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping.* EMNLPL 2019. [long paper](https://www.aclweb.org/anthology/D19-1044.pdf) [code](https://github.com/EMNLP2019LSAN/LSAN)
+
+5. **Hierarchically-Refined Label Attention Network for Sequence Labeling** *Leyang Cui
+and Yue Zhang.* EMNLPL 2019. [long paper](https://www.aclweb.org/anthology/D19-1422.pdf)
+
+6. **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [long paper](https://arxiv.org/pdf/1911.03875.pdf)
 
 ## Resources
 [funNLP](https://github.com/fighting41love/funNLP)
