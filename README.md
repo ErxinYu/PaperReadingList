@@ -133,7 +133,14 @@ Representation Learning of Knowledge Graphs with Hierarchical Types. IJCAI 2016.
 Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
 
-Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
+
+
+## Hierarchical Classification
+1. Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
+
+2.
+
+
 
 ## Label Embedding, Label-Specific 
 
