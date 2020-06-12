@@ -126,36 +126,35 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 
 ## Avaiable Tecnology
 
-A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification. AAAI2019. [paper](https://arxiv.org/pdf/1809.03118.pdf)
+- **Hierarchical Entity Typing via Multi-level Learning to Rank.** ACL2020. [paper](https://arxiv.org/pdf/2004.02286.pdf)
 
-Representation Learning of Knowledge Graphs with Hierarchical Types. IJCAI 2016.[paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_tkrl.pdf)
+- **A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification.** AAAI2019. [paper](https://arxiv.org/pdf/1809.03118.pdf)
 
-Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
+-  **Representation Learning of Knowledge Graphs with Hierarchical Types.** IJCAI 2016.[paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_tkrl.pdf)
 
-
+-  **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR.** [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
 
 ## Hierarchical Classification
-1. Hierarchical Text Classification with Reinforced Label Assignment. EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
+- **Hierarchical Text Classification with Reinforced Label Assignment.** EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
 
-2.
 
 
 
 ## Label Embedding, Label-Specific 
 
-1. **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
+- **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [paper](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
 
-2. **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1087.pdf)
+- **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1087.pdf)
 
-3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
+- **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [short paper](https://www.aclweb.org/anthology/P19-1411.pdf)
 
-4. **Label-Specific Document Representation for Multi-Label Text Classification** *Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping.* EMNLPL 2019. [long paper](https://www.aclweb.org/anthology/D19-1044.pdf) [code](https://github.com/EMNLP2019LSAN/LSAN)
+- **Label-Specific Document Representation for Multi-Label Text Classification** *Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping.* EMNLPL 2019. [long paper](https://www.aclweb.org/anthology/D19-1044.pdf) [code](https://github.com/EMNLP2019LSAN/LSAN)
 
-5. **Hierarchically-Refined Label Attention Network for Sequence Labeling** *Leyang Cui
+- **Hierarchically-Refined Label Attention Network for Sequence Labeling** *Leyang Cui
 and Yue Zhang.* EMNLPL 2019. [long paper](https://www.aclweb.org/anthology/D19-1422.pdf)
 
-6. **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [long paper](https://arxiv.org/pdf/1911.03875.pdf)
+- **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [long paper](https://arxiv.org/pdf/1911.03875.pdf)
 
 ## Resources
 [funNLP](https://github.com/fighting41love/funNLP)
