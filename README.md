@@ -75,6 +75,8 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 
 - **Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding.** EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1248)
   > Paper With Redistributed Dataset  
+  
+- **RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information.** EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1157.pdf)
 
 - **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [paper](https://www.aclweb.org/anthology/D18-1247.pdf)
 
