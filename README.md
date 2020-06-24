@@ -142,7 +142,7 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 - **Hierarchical Text Classification with Reinforced Label Assignment.** EMNLP2019. [paper](https://arxiv.org/pdf/1908.10419.pdf)
 
 - **A survey of hierarchical classification across different application domains.** 2012. [paper](https://link.springer.com/content/pdf/10.1007/s10618-010-0175-9.pdf)
-
+- Top-down Strategies for Hierarchical Classification of Transposable Elements with Neural Networks
 
 ## Label Embedding, Label-Specific 
 
