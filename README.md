@@ -158,6 +158,7 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 and Yue Zhang.* EMNLPL 2019. [long paper](https://www.aclweb.org/anthology/D19-1422.pdf)
 
 - **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [long paper](https://arxiv.org/pdf/1911.03875.pdf)
+- Multi-Task Label Embedding for Text Classification
 
 ## Resources
 [funNLP](https://github.com/fighting41love/funNLP)
