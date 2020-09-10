@@ -93,7 +93,7 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 - **Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction.** IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0610.pdf)
 
 - **Neural Relation Extraction with Selective Attention over Instances.** *Yankai Lin, Shiqi Shen, Zhiyuan Liu,, Huanbo Luan
-, Maosong Sun.*  ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://github.com/thunlp/OpenNRE/tree/old_version)
+, Maosong Sun.*  ACL 2016. [paper](http://wing.comp.nus.edu.sg/~antho/P/P16/P16-1200.pdf) [code](https://www.aclweb.org/anthology/P16-1200v2.pdf)
 
 - **Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016.** [paper](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
 
