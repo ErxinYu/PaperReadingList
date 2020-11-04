@@ -103,6 +103,8 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 
 ## Other Relation Rxtraction (Supervied, few-shot, document-level, etc.)
 
+- **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** *Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao, Zhiyuan Liu.* arxiv. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
+
 - **Integrating Relation Constraints with Neural Relation Extractors.** *ZYuan Ye, Yansong Feng, Bingfeng Luo, Yuxuan Lai, Dongyan Zhao.* AAAI 2020. [paper](https://arxiv.org/pdf/1911.11493.pdf) 
 
 - **Distilling Knowledge from Well-informed Soft Labels.** *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo.* AAAI 2020. [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangZ.7408.pdf) 
