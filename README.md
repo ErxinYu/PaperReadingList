@@ -17,25 +17,12 @@
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
 
-  >   提出了三个机制: 1.entity-aware embedding 在训练的过程中 动态的加强实体(位置)的权重,这个好像很有效果。2.提出self
-  >   -attention 补充PCNN 在捕捉long-term上的不足，对已经embedding好的做self_attention。3.提出Selective Gate,为了弥补att机制在one-           sentence bag问题上的不足，实验证明确实有效果。
-  >   总结:这篇效果不错，在570K的数据集上测试，在0.4@recall的基础上可以达到 0.65 在没有利用额外信息的情况下达到了SOTA效果,有可以借鉴的地方，但是
-  >   没有代码。这篇中提到PCNN+HATT的效果 AUC是0.42，PCNN_ATT 是在one_sentence上比的 AUC达到0.35 ACC有78%(保持怀疑)
-
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
-
-  >   motivation是针对很多正例样本中的噪声，之前如果标错了就用att或者remove掉，现在用无监督的方法为这些label重新标一下(但是还没有明确标完之后怎么       处理) 中这里只针对正样例的标签改。 Noise Detector 判断哪些是Noisy、Valid、Ignore,根据bag_present的阈值。 Label Generator 根据聚类改       变标签。
-  >   总结: 效果比PCNN_ATT高一点，且在PR图上表示。
 
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang
   Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
-
-  >  用强化学习 挑出句子中的噪声, 然后带噪声的句子标成Unlabeled, 结合Positive的句子的representation和unlabeled句子的representation。跟之前      强化学习比不同的是没有改变数据集分布。
-  >  总结: 效果相当不错。0.4@recall的基础上可以达到 0.5+。
-
+  
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
-
->  利用transformer 模型进行编码 接上PCNN+ATT 结果有个特点就是召回率高的情况下下 准确率下降的慢，但是一开始的准确率不高。PCNN+ATT的auc在这篇文       章中是0.34左右。
 
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. *Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu, Wei Xu* [[paper]](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
 
