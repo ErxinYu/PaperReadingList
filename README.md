@@ -115,9 +115,7 @@
 
 ## Document-level Relation Rxtraction
 
-```diff
-- Double Graph Based Reasoning for Document-level Relation Extraction.``` *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
-```
+- <span style="color:red;"> **Double Graph Based Reasoning for Document-level Relation Extraction.**</span> *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li. * EMNLP2020. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
 
 
 
@@ -194,4 +192,6 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 [funNLP](https://github.com/fighting41love/funNLP)
 
 [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
+
+
 
