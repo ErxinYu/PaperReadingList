@@ -101,7 +101,14 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 
 - **Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction.** ACL2010. [paper](https://www.aclweb.org/anthology/P09-1114)
 
-## Other Relation Rxtraction (Supervied, few-shot, document-level, etc.)
+
+## Few-shot Relation Rxtraction
+
+## Document-level Relation Rxtraction
+
+- <font color=#00ffff > **Double Graph Based Reasoning for Document-level Relation Extraction.</font>** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
+
+## Other Relation Rxtraction (Supervied, OpenIE, Overview, etc.)
 
 - **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** *Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao, Zhiyuan Liu.* arxiv. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
 
@@ -112,9 +119,6 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 - **Relation Extraction Exploiting Full Dependency Forests.** *Lifeng Jin, Linfeng Song, Yue Zhang, Kun Xu, Wei-yun Ma and Dong Yu.* AAAI 2020. [paper](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) 
 
 - **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction.** *Wenxuan Zhou, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, Xiang Ren.* WWW 2020. [paper](https://arxiv.org/pdf/1909.02177.pdf) 
-
-- **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** 
-*Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
 
 - **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** 
 *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1130.pdf) 
