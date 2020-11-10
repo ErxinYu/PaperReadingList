@@ -106,7 +106,7 @@ Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [paper](https://arxiv.org
 
 ## Document-level Relation Rxtraction
 
-- diff - **Double Graph Based Reasoning for Document-level Relation Extraction.</font>** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
+- - ** ``` diff - Double Graph Based Reasoning for Document-level Relation Extraction.``` ** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [paper](https://arxiv.org/pdf/2004.03186.pdf) 
 
 ## Other Relation Rxtraction (Supervied, OpenIE, Overview, etc.)
 
