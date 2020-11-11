@@ -6,7 +6,7 @@
 | [Conference DeadLine](https://jackietseng.github.io/conference_call_for_paper/conferences.html) | 2020                                                         | 2019                                                         | 2018                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | ACL                                                          | [ACL 2020](https://acl2020.org/program/accepted/)            | [ACL 2019](http://www.acl2019.org/EN/program.xhtml)          | [ACL 2018](https://acl2018.org/programme/papers/)            |
-| EMNLP                                                        | [EMNLP 2020](https://2020.emnlp.org/papers/main)             | [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/) | [EMNLP 2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1) |
+| EMNLP                                                        | [EMNLP 2020](https://www.aclweb.org/anthology/volumes/2020.emnlp-main/) | [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/program/accepted/) | [EMNLP 2018](https://www.aclweb.org/anthology/events/emnlp-2018/#d18-1) |
 | NAACL                                                        | -                                                            | [NAACL 2019](https://naacl2019.org/program/accepted/)        | [NAACL 2018](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/) |
 | COLING                                                       | [COLING 2020](https://coling2020.org/pages/accepted_papers_main_conference) | -                                                            | [COLING 2018](https://coling2018.org/index.html%3Fp=1556.html) |
 | AAAI                                                         | [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | [AAAI 2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | [AAAI 2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
@@ -16,74 +16,42 @@
 
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
-
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
-
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang
   Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
-  
-- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
-
+- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. *Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu, Wei Xu* [[paper]](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
-
 - **ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification.**  ** *Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1135.pdf)
-
 - **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1909.05448.pdf)
-
 - **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction.** *Yuyun Huang and Jinhua Du.* EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1037.pdf)
-
 - **Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction.** *Linmei Hu, Luhao Zhang, Chuan Shi, Liqiang Nie, Weili Guan and Cheng Yang.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1904.09331.pdf)
-
 - **Improving Distantly-Supervised Relation Extraction with Joint Label Embedding.** *Qinyuan Ye, Liyuan Liu, Maosen Zhang and Xiang Ren.* EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1395.pdf)
-
 - **Leveraging 2-hop Distant Supervision from Table Entity Pairs for Relation Extraction.** *Xiang Deng and Huan Sun.* EMNLP 2019.[[paper]](https://arxiv.org/pdf/1909.06007.pdf)
-
 - **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolutino Networks.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, Huajun Chen.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1306)
-
 - **Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions.** *Zhi-Xiu Ye, Zhen-Hua Ling.* NAACL 2019. [[paper]](https://pdfs.semanticscholar.org/d037/67e0d40d257165bc3faff9c7fa68cdc93035.pdf?_ga=2.239529667.1922655975.1565091217-775842260.1562830956)
-
 - **Exploiting Noisy Data in Distant Supervison Relation Classification.** *Kaijia Yang, Liang He, Xin-yu Dai, Shujian Huang, Jiajun Chen.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1325)
-
 - **GAN driven Semi-distant Supervison for Relation Extraction.** *Pengshuai Li, Xinsong Zhang, Weijia Jia, Hai Zhao.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1307)
-
 - **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction.** *Yujin Yuan, Liyuan Liu, Siliang Tang , Zhongfei Zhang, Yueting Zhuang, Shiliang Pu, Fei Wu, Xiang Ren.* AAAI 2019. [[paper]](https://arxiv.org/pdf/1812.10604.pdf)
-
 - **Relation Extraction Using Supervision from Topic Knowledge of Relation Labels.** *Haiyun Jiang, Li Cui, Zhe Xu, Deqing Yang, Jindong Chen, Chenguang Li, Jingping Liu, Jiaqing Liang, Chao Wang, Yanghua Xiao, Wei Wang IJCAI 2019.* [[paper]](https://www.ijcai.org/Proceedings/2019/0698.pdf)
-
 - **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.** *Pengda Qin, Weiran Xu, William Yang Wang* ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1199)
-
 - **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.** *Pengda Qin, Weiran Xu, William Yang Wang.*ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1046)
-
 - **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen* ACL 2018.  [[short paper]](https://www.aclweb.org/anthology/D18-1120.pdf)
-
 - **Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding.** *Guanying Wang, Wen Zhang, Ruoxu Wang, Yalin Zhou, Xi Chen, Wei Zhang, Hai Zhu, Huajun Chen.* EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1248)
-
 - **RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information.** *Shikhar Vashishth, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, Partha Talukdar.* EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1157.pdf)
-
 - **Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention.** *Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, Peng Li.* EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1247.pdf)
-
 - **Multi-Level Structured Self-Attentions for Distantly Supervised Relation Extraction.** *Jinhua Du, Jingguang Han, Andy Way, Dadong Wan.* EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1245.pdf)
-
 - **Cooperative Denoising for Distantly Supervised Relation Extraction.** *Kai Lei, Daoyuan Chen, Yaliang Li, Nan Du, Min Yang, Wei Fan, Ying Shen.* COLING 2018. [[paper]](https://www.aclweb.org/anthology/C18-1036.pdf)
-
 - **Large Scaled Relation Extraction with Reinforcement Learning.** AAAI 2018.  [[[paper]](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/zeng_aaai2018.pdf)
-
 - **Reinforcement Learning for Relation Classification from Noisy Data.** AAAI 2018. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17151)
-
 - **Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction.** IJCAI 2018. [[paper]](https://www.ijcai.org/proceedings/2018/0610.pdf)
-
 - **Neural Relation Extraction with Selective Attention over Instances.** *Yankai Lin, Shiqi Shen, Zhiyuan Liu,, Huanbo Luan, Maosong Sun.*  ACL 2016. [[paper]](https://www.aclweb.org/anthology/P16-1200v2.pdf)
-
 - **Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks. COLING 2016.** [[paper]](https://pdfs.semanticscholar.org/8731/369a707046f3f8dd463d1fd107de31d40a24.pdf)
-
 - **Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks.** *Daojian Zeng, Kang Liu, Yubo Chen and Jun Zhao.* EMNLP 2015. [[paper]](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf) 
-
 - **Multi-Task Transfer Learning for Weakly-Supervised Relation Extraction.** *Jing Jiang.* ACL2010. [[paper]](https://www.aclweb.org/anthology/P09-1114)
 
 ## Few-shot Relation Rxtraction
 
 -  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514)
-
 -  **FewRel 2.0: Towards more challenging few-shot relation classification**. *Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou.* EMNLP2019. [[paper\]](https://doi.org/10.18653/v1/D19-1649)
 -  **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. *Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun.* AAAI 2019. [[paper\]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
 -  **Matching the blanks: Distributional similarity for relation learning**. *Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski.* ACL 2019. [[paper\]](https://doi.org/10.18653/v1/P19-1279)
@@ -91,25 +59,56 @@
 
 ## Document-level Relation Rxtraction
 
--  **Double Graph Based Reasoning for Document-level Relation Extraction.** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.13752.pdf) 
--  **Global-to-Local Neural Networks for Document-Level Relation Extraction**. *Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.10359.pdf) 
--  **Denoising Relation Extraction from Document-level Distant Supervision**. *Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin.* EMNLP2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)
+- **Double Graph Based Reasoning for Document-level Relation Extraction.** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.13752.pdf) 
+
+  >Document-level relation extraction aims to extract relations among entities within a document. Different from sentence-level relation extraction, it requires reasoning over multiple sentences across a document. In this paper, we propose Graph Aggregation-andInference Network (GAIN) featuring double graphs. GAIN first constructs a heterogeneous mention-level graph (hMG) to model complex interaction among different mentions across the document. It also constructs an entitylevel graph (EG), based on which we propose a novel path reasoning mechanism to infer relations between entities. Experiments on the public dataset, DocRED, show GAIN achieves a significant performance improvement (2.85 on F1) over the previous state-of-the-art. 
+- **Global-to-Local Neural Networks for Document-Level Relation Extraction**. *Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.10359.pdf) 
+  >Relation extraction (RE) aims to identify the semantic relations between named entities in text. Recent years have witnessed it raised to the document level, which requires complex reasoning with entities and mentions throughout an entire document. In this paper, we propose a novel model to document-level RE, by encoding the document information in terms of entity global and local representations as well as context relation representations. Entity global representations model the semantic information of all entities in the document, entity local representations aggregate the contextual information of multiple mentions of specific entities, and context relation representations encode the topic information of other relations. Experimental results demonstrate that our model achieves superior performance on two public datasets for document-level RE. It is particularly effective in extracting relations between entities of long distance and having multiple mentions.
+- **Denoising Relation Extraction from Document-level Distant Supervision**. *Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin.* EMNLP2020. [[short paper]](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)
+  >Distant supervision (DS) has been widely used to generate auto-labeled data for sentencelevel relation extraction (RE), which improves RE performance. However, the existing success of DS cannot be directly transferred to the more challenging document-level relation extraction (DocRE), since the inherent noise in DS may be even multiplied in document level and significantly harm the performance of RE. To address this challenge, we propose a novel pre-trained model for DocRE, which denoises the document-level DS data via multiple pre-training tasks. Experimental results on the large-scale DocRE benchmark show that our model can capture useful information from noisy DS data and achieve promising results.
 
 ## Other Relation Rxtraction (Supervied, OpenIE, Overview, etc.)
 
--  **Joint Constrained Learning for Event-Event Relation Extraction**. *Haoyu Wang, Muhao Chen, Hongming Zhang and Dan Roth.*  EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
--  **Learning from Context or Names? An Empirical Study on Neural Relation Extraction**.  *Hao Peng, Tianyu Gao, Xu Han, Yankai Lin, Peng Li, Zhiyuan Liu, Maosong Sun and Jie Zhou.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
--  **SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction**.  *Xuming Hu, Lijie Wen, Yusong Xu, Chenwei Zhang and Philip Yu.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
--  **TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks**.
--  **Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction** *Rujun Han, Yichao Zhou and Nanyun Peng.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.07373.pdf) 
--  **Within-Between Lexical Relation Classification.** *Oren Barkan, Avi Caciularu and Ido Dagan*. EMNLP2020. 
--  **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** *Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao, Zhiyuan Liu.* arxiv. [[paper]](https://arxiv.org/pdf/2004.03186.pdf) 
--  **Integrating Relation Constraints with Neural Relation Extractors.** *ZYuan Ye, Yansong Feng, Bingfeng Luo, Yuxuan Lai, Dongyan Zhao.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11493.pdf) 
--  **Distilling Knowledge from Well-informed Soft Labels.** *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangZ.7408.pdf) 
--  **Relation Extraction Exploiting Full Dependency Forests.** *Lifeng Jin, Linfeng Song, Yue Zhang, Kun Xu, Wei-yun Ma and Dong Yu.* AAAI 2020. [[paper]](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) 
--  **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction.** *Wenxuan Zhou, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, Xiang Ren.* WWW 2020. [[paper]](https://arxiv.org/pdf/1909.02177.pdf) 
--  **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf) 
--  **Fine-Grained Temporal Relation Extraction .** *Siddharth Vashishtha -University of Rochester* . [[paper]](https://www.aclweb.org/anthology/P19-1280.pdf) 
+- **Joint Constrained Learning for Event-Event Relation Extraction**. *Haoyu Wang, Muhao Chen, Hongming Zhang and Dan Roth.*  EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
+  >Understanding natural language involves recognizing how multiple event mentions structurally and temporally interact with each other. In this process, one can induce event complexes that organize multi-granular events with temporal order and membership relations interweaving among them. Due to the lack of jointly labeled data for these relational phenomena and the restriction on the structures they articulate, we propose a joint constrained learning framework for modeling event-event relations. Specifically, the framework enforces logical constraints within and across multiple temporal and subevent relations by converting these constraints into differentiable learning objectives. We show that our joint constrained learning approach effectively compensates for the lack of jointly labeled data, and outperforms SOTA methods on benchmarks for both temporal relation extraction and event hierarchy construction, replacing a commonly used but more expensive global inference process. We also present a promising case study showing the effectiveness of our approach in inducing event complexes on an external corpus.
+
+- **Learning from Context or Names? An Empirical Study on Neural Relation Extraction**.  *Hao Peng, Tianyu Gao, Xu Han, Yankai Lin, Peng Li, Zhiyuan Liu, Maosong Sun and Jie Zhou.* EMNLP2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.298.pdf) 
+  >Neural models have achieved remarkable success on relation extraction (RE) benchmarks. However, there is no clear understanding which type of information affects existing RE models to make decisions and how to further improve the performance of these models. To this end, we empirically study the effect of two main information sources in text: textual context and entity mentions (names). We find that (i) while context is the main source to support the predictions, RE models also heavily rely on the information from entity mentions, most of which is type information, and (ii) existing datasets may leak shallow heuristics via entity mentions and thus contribute to the high performance on RE benchmarks. Based on the analyses, we propose an entity-masked contrastive pre-training framework for RE to gain a deeper understanding on both textual context and type information while avoiding rote memorization of entities or use of superficial cues in mentions. We carry out extensive experiments to support our views, and show that our framework can improve the effectiveness and robustness of neural models in different RE scenarios. All the code and datasets are released at https://github.com/thunlp/ RE-Context-or-Names.
+
+- **SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction**.  *Xuming Hu, Lijie Wen, Yusong Xu, Chenwei Zhang and Philip Yu.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
+
+  >Open relation extraction is the task of extracting open-domain relation facts from natural language sentences. Existing works either utilize heuristics or distant-supervised annotations to train a supervised classifier over pre-defined relations, or adopt unsupervised methods with additional assumptions that have less discriminative power. In this work, we propose a self-supervised framework named SelfORE, which exploits weak, self-supervised signals by leveraging large pretrained language model for adaptive clustering on contextualized relational features, and bootstraps the self-supervised signals by improving contextualized features in relation classification. Experimental results on three datasets show the effectiveness and robustness of SelfORE on open-domain Relation Extraction when comparing with competitive baselines. Source code is available
+
+- **TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks.** *Wanqiu Long, Bonnie Webber, Deyi Xiong* [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.223.pdf)
+
+  >As different genres are known to differ in their communicative properties and as previously, for Chinese, discourse relations have only been annotated over news text, we have created the TED-CDB dataset. TED-CDB comprises a large set of TED talks in Chinese that have been manually annotated according to the goals and principles of Penn Discourse Treebank, but adapted to features that are not present in English. It serves as a unique Chinese corpus of spoken discourse. Benchmark experiments show that TED-CDB poses a challenge for state-of-the-art discourse relation classifiers, whose F1 performance on 4- way classification is <60%. This is a dramatic drop of 35% from performance on the news text in the Chinese Discourse Treebank. Transfer learning experiments have been carried out with the TED-CDB for both same-language cross-domain transfer and same-domain crosslanguage transfer. Both demonstrate that the TED-CDB can improve the performance of systems being developed for languages other than Chinese and would be helpful for insufficient or unbalanced data in other corpora.
+
+- **Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction** *Rujun Han, Yichao Zhou and Nanyun Peng.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.07373.pdf) 
+
+- **Within-Between Lexical Relation Classification.** *Oren Barkan, Avi Caciularu and Ido Dagan*. EMNLP2020. [[short paper]](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf)
+
+- **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** *Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao, Zhiyuan Liu.* arxiv. [[paper]](https://arxiv.org/pdf/2004.03186.pdf) 
+
+- **Integrating Relation Constraints with Neural Relation Extractors.** *ZYuan Ye, Yansong Feng, Bingfeng Luo, Yuxuan Lai, Dongyan Zhao.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11493.pdf) 
+
+- **Distilling Knowledge from Well-informed Soft Labels.** *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangZ.7408.pdf) 
+
+- **Relation Extraction Exploiting Full Dependency Forests.** *Lifeng Jin, Linfeng Song, Yue Zhang, Kun Xu, Wei-yun Ma and Dong Yu.* AAAI 2020. [[paper]](https://freesunshine0316.github.io/files/RE_parser_joint__AAAI_2020_.pdf) 
+
+- **NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction.** *Wenxuan Zhou, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, Xiang Ren.* WWW 2020. [[paper]](https://arxiv.org/pdf/1909.02177.pdf) 
+
+- **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf) 
+
+- **Fine-Grained Temporal Relation Extraction .** *Siddharth Vashishtha -University of Rochester* . [[paper]](https://www.aclweb.org/anthology/P19-1280.pdf) 
+
+## Multi-label classification
+
+Multi-Label Learning with Global and Local Label Correlation  
+Exploring Correlation between Labels to improve Multi-Label Classification  
+Multi-Label Learning by Exploiting Label Correlations Locally  
+SGM: Sequence Generation Model for Multi-label Classification  
+Deep Learning with a Rethinking Structure for Multi-label Classification
+
 
 ## Hierarchical Classification
 
@@ -123,18 +122,12 @@
 ## Label Embedding, Label-Specific 
 
 - **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [[paper]](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
-
 - **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1087.pdf)
-
 - **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [[short paper]](https://www.aclweb.org/anthology/P19-1411.pdf)
-
 - **Label-Specific Document Representation for Multi-Label Text Classification** *Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping.* EMNLPL 2019.[[paper]](https://www.aclweb.org/anthology/D19-1044.pdf) [[code]](https://github.com/EMNLP2019LSAN/LSAN)
-
 - **Hierarchically-Refined Label Attention Network for Sequence Labeling** *Leyang Cui
   and Yue Zhang.* EMNLPL 2019. [[paper]](https://www.aclweb.org/anthology/D19-1422.pdf)
-  
 - **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
-
 - **Multi-Task Label Embedding for Text Classification.** *Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin* [[paper]](https://www.aclweb.org/anthology/D18-1484.pdf)
 
 ## Avaiable Tecnology
