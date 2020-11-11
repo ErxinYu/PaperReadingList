@@ -111,15 +111,6 @@
 -  **Exploiting Entity BIO Tag Embeddings and Multi-task Learning for Relation Extraction with Imbalanced Data.** *Wei Ye, Bo Li, Rui Xie, Zhonghao Sheng, Long Chen, Shikun Zhang.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1130.pdf) 
 -  **Fine-Grained Temporal Relation Extraction .** *Siddharth Vashishtha -University of Rochester* . [[paper]](https://www.aclweb.org/anthology/P19-1280.pdf) 
 
-## Multi-label classification
-
-Multi-Label Learning with Global and Local Label Correlation  
-Exploring Correlation between Labels to improve Multi-Label Classification  
-Multi-Label Learning by Exploiting Label Correlations Locally  
-SGM: Sequence Generation Model for Multi-label Classification  
-Deep Learning with a Rethinking Structure for Multi-label Classification
-
-
 ## Hierarchical Classification
 
 - **Hierarchical Text Classification with Reinforced Label Assignment.** EMNLP2019. [[paper]](https://arxiv.org/pdf/1908.10419.pdf)
@@ -129,7 +120,7 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 
 - **大规模分类任务的分层学习** *胡清华* [[paper]](http://121.194.63.124/Slides/Huqinghua-MLA2017.pdf)
 
-##Label Embedding, Label-Specific 
+## Label Embedding, Label-Specific 
 
 - **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [[paper]](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
 - **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1087.pdf)
@@ -140,7 +131,7 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 - **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
 - **Multi-Task Label Embedding for Text Classification.** *Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin* [[paper]](https://www.aclweb.org/anthology/D18-1484.pdf)
 
-##Avaiable Tecnology
+## Avaiable Tecnology
 
 - **Hierarchical Entity Typing via Multi-level Learning to Rank.** ACL2020. [[paper]](https://arxiv.org/pdf/2004.02286.pdf)
 
