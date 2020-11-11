@@ -16,11 +16,13 @@
 
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
+
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
-- **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang
-  Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
-- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE
+
+- **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang, Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
+- **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. *Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu, Wei Xu* [[paper]](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
+
 - **ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification.**  ** *Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1135.pdf)
 - **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1909.05448.pdf)
 - **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction.** *Yuyun Huang and Jinhua Du.* EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1037.pdf)
@@ -52,6 +54,7 @@
 ## Few-shot Relation Rxtraction
 
 -  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514)
+
 -  **FewRel 2.0: Towards more challenging few-shot relation classification**. *Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou.* EMNLP2019. [[paper\]](https://doi.org/10.18653/v1/D19-1649)
 -  **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. *Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun.* AAAI 2019. [[paper\]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
 -  **Matching the blanks: Distributional similarity for relation learning**. *Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski.* ACL 2019. [[paper\]](https://doi.org/10.18653/v1/P19-1279)
@@ -62,18 +65,26 @@
 - **Double Graph Based Reasoning for Document-level Relation Extraction.** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.13752.pdf) 
 
   >Document-level relation extraction aims to extract relations among entities within a document. Different from sentence-level relation extraction, it requires reasoning over multiple sentences across a document. In this paper, we propose Graph Aggregation-andInference Network (GAIN) featuring double graphs. GAIN first constructs a heterogeneous mention-level graph (hMG) to model complex interaction among different mentions across the document. It also constructs an entitylevel graph (EG), based on which we propose a novel path reasoning mechanism to infer relations between entities. Experiments on the public dataset, DocRED, show GAIN achieves a significant performance improvement (2.85 on F1) over the previous state-of-the-art. 
+
 - **Global-to-Local Neural Networks for Document-Level Relation Extraction**. *Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.10359.pdf) 
+
   >Relation extraction (RE) aims to identify the semantic relations between named entities in text. Recent years have witnessed it raised to the document level, which requires complex reasoning with entities and mentions throughout an entire document. In this paper, we propose a novel model to document-level RE, by encoding the document information in terms of entity global and local representations as well as context relation representations. Entity global representations model the semantic information of all entities in the document, entity local representations aggregate the contextual information of multiple mentions of specific entities, and context relation representations encode the topic information of other relations. Experimental results demonstrate that our model achieves superior performance on two public datasets for document-level RE. It is particularly effective in extracting relations between entities of long distance and having multiple mentions.
+
 - **Denoising Relation Extraction from Document-level Distant Supervision**. *Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin.* EMNLP2020. [[short paper]](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)
+
   >Distant supervision (DS) has been widely used to generate auto-labeled data for sentencelevel relation extraction (RE), which improves RE performance. However, the existing success of DS cannot be directly transferred to the more challenging document-level relation extraction (DocRE), since the inherent noise in DS may be even multiplied in document level and significantly harm the performance of RE. To address this challenge, we propose a novel pre-trained model for DocRE, which denoises the document-level DS data via multiple pre-training tasks. Experimental results on the large-scale DocRE benchmark show that our model can capture useful information from noisy DS data and achieve promising results.
 
 ## Other Relation Rxtraction (Supervied, OpenIE, Overview, etc.)
 
 - **Joint Constrained Learning for Event-Event Relation Extraction**. *Haoyu Wang, Muhao Chen, Hongming Zhang and Dan Roth.*  EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
+
   >Understanding natural language involves recognizing how multiple event mentions structurally and temporally interact with each other. In this process, one can induce event complexes that organize multi-granular events with temporal order and membership relations interweaving among them. Due to the lack of jointly labeled data for these relational phenomena and the restriction on the structures they articulate, we propose a joint constrained learning framework for modeling event-event relations. Specifically, the framework enforces logical constraints within and across multiple temporal and subevent relations by converting these constraints into differentiable learning objectives. We show that our joint constrained learning approach effectively compensates for the lack of jointly labeled data, and outperforms SOTA methods on benchmarks for both temporal relation extraction and event hierarchy construction, replacing a commonly used but more expensive global inference process. We also present a promising case study showing the effectiveness of our approach in inducing event complexes on an external corpus.
 
 - **Learning from Context or Names? An Empirical Study on Neural Relation Extraction**.  *Hao Peng, Tianyu Gao, Xu Han, Yankai Lin, Peng Li, Zhiyuan Liu, Maosong Sun and Jie Zhou.* EMNLP2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.298.pdf) 
+
   >Neural models have achieved remarkable success on relation extraction (RE) benchmarks. However, there is no clear understanding which type of information affects existing RE models to make decisions and how to further improve the performance of these models. To this end, we empirically study the effect of two main information sources in text: textual context and entity mentions (names). We find that (i) while context is the main source to support the predictions, RE models also heavily rely on the information from entity mentions, most of which is type information, and (ii) existing datasets may leak shallow heuristics via entity mentions and thus contribute to the high performance on RE benchmarks. Based on the analyses, we propose an entity-masked contrastive pre-training framework for RE to gain a deeper understanding on both textual context and type information while avoiding rote memorization of entities or use of superficial cues in mentions. We carry out extensive experiments to support our views, and show that our framework can improve the effectiveness and robustness of neural models in different RE scenarios. All the code and datasets are released at https://github.com/thunlp/ RE-Context-or-Names.
+  >
+  >
 
 - **SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction**.  *Xuming Hu, Lijie Wen, Yusong Xu, Chenwei Zhang and Philip Yu.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2010.06727.pdf) 
 
@@ -85,7 +96,11 @@
 
 - **Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction** *Rujun Han, Yichao Zhou and Nanyun Peng.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.07373.pdf) 
 
+  > Extracting event temporal relations is a critical task for information extraction and plays an important role in natural language understanding. Prior systems leverage deep learning and pre-trained language models to improve the performance of the task. However, these systems often suffer from two shortcomings: 1) when performing maximum a posteriori (MAP) inference based on neural models, previous systems only used structured knowledge that is assumed to be absolutely correct, i.e., hard constraints; 2) biased predictions on dominant temporal relations when training with a limited amount of data. To address these issues, we propose a framework that enhances deep neural network with distributional constraints constructed by probabilistic domain knowledge. We solve the constrained inference problem via Lagrangian Relaxation and apply it to end-to-end event temporal relation extraction tasks. Experimental results show our framework is able to improve the baseline neural network models with strong statistical significance on two widely used datasets in news and clinical domains.
+
 - **Within-Between Lexical Relation Classification.** *Oren Barkan, Avi Caciularu and Ido Dagan*. EMNLP2020. [[short paper]](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf)
+
+  > We propose the novel Within-Between Relation model for recognizing lexical-semantic relations between words. Our model integrates relational and distributional signals, forming an effective sub-space representation for each relation. We show that the proposed model is competitive and outperforms other baselines, across various benchmarks.
 
 - **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** *Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao, Zhiyuan Liu.* arxiv. [[paper]](https://arxiv.org/pdf/2004.03186.pdf) 
 
