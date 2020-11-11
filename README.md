@@ -123,12 +123,18 @@
 ## Label Embedding, Label-Specific 
 
 - **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [[paper]](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
+
 - **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1087.pdf)
+
 - **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [[short paper]](https://www.aclweb.org/anthology/P19-1411.pdf)
+
 - **Label-Specific Document Representation for Multi-Label Text Classification** *Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping.* EMNLPL 2019.[[paper]](https://www.aclweb.org/anthology/D19-1044.pdf) [[code]](https://github.com/EMNLP2019LSAN/LSAN)
+
 - **Hierarchically-Refined Label Attention Network for Sequence Labeling** *Leyang Cui
   and Yue Zhang.* EMNLPL 2019. [[paper]](https://www.aclweb.org/anthology/D19-1422.pdf)
+  
 - **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
+
 - **Multi-Task Label Embedding for Text Classification.** *Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin* [[paper]](https://www.aclweb.org/anthology/D18-1484.pdf)
 
 ## Avaiable Tecnology
