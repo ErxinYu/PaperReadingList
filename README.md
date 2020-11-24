@@ -16,7 +16,7 @@
 
 - **Deep Keyphrase Generation.** *Rui Meng, Sanqiang Zhao, Shuguang Han, Daqing He, Peter Brusilovsky, Yu Chi.* ACL 2017. [[paper]](https://arxiv.org/pdf/1704.06879.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
 
-- **Semi-Supervised Learning for Neural Keyphrase Generation.** *Hai Ye and Lu Wang*. EMNLP 2018. [[paper]](Semi-Supervised Learning for Neural Keyphrase Generation)
+- **Semi-Supervised Learning for Neural Keyphrase Generation.** *Hai Ye and Lu Wang*. EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1447.pdf)
 
 - **Keyphrase Generation with Correlation Constraints.** *Jun Chen,Xiaoming Zhang,Yu Wu,Zhao Yan,Zhoujun Li*. EMNLP 2018. [[paper]](https://arxiv.org/pdf/1808.07185.pdf)
 
