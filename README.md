@@ -12,7 +12,7 @@
 | AAAI                                                         | [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | [AAAI 2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | [AAAI 2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
 | IJCAI                                                        | [IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html) | [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)   | [IJCAI 2018](http://www.ijcai-18.org/accepted-papers/index.html) |
 
-## Keyphrase Generation
+##Keyphrase Generation
 
 - **Deep Keyphrase Generation.** *Rui Meng, Sanqiang Zhao, Shuguang Han, Daqing He, Peter Brusilovsky, Yu Chi.* ACL 2017. [[paper]](https://arxiv.org/pdf/1704.06879.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
 
@@ -32,17 +32,15 @@
 
 - **Title-Guided Encoding for Keyphrase Generation.** *Wang Chen,Yifan Gao,Jiani Zhang,Irwin King,Michael R. Lyu.* AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4587)
 
-- **A Preliminary Exploration of GANs for Keyphrase Generation.** *Avinash Swaminathan,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah,Amanda Stent.* EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
-
-- **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation.** *Dayiheng Liu,Yeyun Gong,Yu Yan,Jie Fu,Bo Shao,Daxin Jiang,Jiancheng Lv,Nan Duan.* EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf)[[code]](https://github.com/dayihengliu/KeyMultiHeadline)
+- **A Preliminary Exploration of GANs for Keyphrase Generation.** *Avinash Swaminathan,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah,Amanda Stent.* EMNLP 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
 
 - **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan,Tong Wang,Rui Meng,Khushboo Thaker,Peter Brusilovsky,Daqing He,Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
 
-- **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin,Ygor Gallina,Akiko Aizawa.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
+- **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin,Ygor Gallina,Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
 
 - **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen,Hou Pong Chan,Piji Li,Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
 
-- **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan,Raj Kuwar Gupta,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah.* AAAI 2020. [[short paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
+- **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan,Raj Kuwar Gupta,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
 
 ## Distantly Relation Extraction
 
