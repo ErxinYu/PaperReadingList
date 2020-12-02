@@ -12,7 +12,7 @@
 | AAAI                                                         | [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | [AAAI 2019](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) | [AAAI 2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |
 | IJCAI                                                        | [IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html) | [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)   | [IJCAI 2018](http://www.ijcai-18.org/accepted-papers/index.html) |
 
-##Keyphrase Generation
+## Keyphrase Generation
 
 - **Deep Keyphrase Generation.** *Rui Meng, Sanqiang Zhao, Shuguang Han, Daqing He, Peter Brusilovsky, Yu Chi.* ACL 2017. [[paper]](https://arxiv.org/pdf/1704.06879.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
 
@@ -44,7 +44,7 @@
 
 ## Distantly Relation Extraction
 
-- **self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
+- **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
 
 
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
