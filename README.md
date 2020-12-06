@@ -15,36 +15,24 @@
 ## Keyphrase Generation
 
 - **Deep Keyphrase Generation.** *Rui Meng, Sanqiang Zhao, Shuguang Han, Daqing He, Peter Brusilovsky, Yu Chi.* ACL 2017. [[paper]](https://arxiv.org/pdf/1704.06879.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
-
 - **Semi-Supervised Learning for Neural Keyphrase Generation.** *Hai Ye and Lu Wang*. EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1447.pdf)
-
 - **Keyphrase Generation with Correlation Constraints.** *Jun Chen,Xiaoming Zhang,Yu Wu,Zhao Yan,Zhoujun Li*. EMNLP 2018. [[paper]](https://arxiv.org/pdf/1808.07185.pdf)
-
+- **Does Order Matter? An Empirical Study on Generating Multiple Keyphrases as a Sequence.** *Meng, Rui and Yuan, Xingdi and Wang, Tong and Brusilovsky, Peter and Trischler, Adam and He, Daqing*. Arxiv 2018. [[paper]](https://arxiv.org/pdf/1909.03590.pdf)
 - **An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction.** *Wang Chen,Hou Pong Chan,Piji Li,Lidong Bing,Irwin King.* NAACL 2019. [[paper]](https://arxiv.org/pdf/1904.03454.pdf)[[code]](https://github.com/Chen-Wang-CUHK/KG-KE-KR-M)
-
 - **Keyphrase Generation: A Text Summarization Struggle.** *Erion Çano,Ondřej Bojar.* NAACL 2019. [[short paper]](https://www.aclweb.org/anthology/N19-1070.pdf)
-
 - **Incorporating Linguistic Constraints into Keyphrase Generation.** *Jing Zhao,Yuxiang Zhang.* ACL 2019. [[paper]](https://arxiv.org/pdf/1808.06773.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
-
 - **Topic-Aware Neural Keyphrase Generation for Social Media Language.** *Yue Wang,Jing Li,Hou Pong Chan,Irwin King,Michael R. Lyu,Shuming Shi.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1240.pdf)[[code]](https://github.com/yuewang-cuhk/TAKG)
-
 - **Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards.** *Hou Pong Chan,Wang Chen,Lu Wang,Irwin King.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1208.pdf)[[code]](https://github.com/kenchan0226/keyphrase-generation-rl)
-
 - **Title-Guided Encoding for Keyphrase Generation.** *Wang Chen,Yifan Gao,Jiani Zhang,Irwin King,Michael R. Lyu.* AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4587)
-
 - **A Preliminary Exploration of GANs for Keyphrase Generation.** *Avinash Swaminathan,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah,Amanda Stent.* EMNLP 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
-
 - **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan,Tong Wang,Rui Meng,Khushboo Thaker,Peter Brusilovsky,Daqing He,Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
-
 - **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin,Ygor Gallina,Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
-
 - **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen,Hou Pong Chan,Piji Li,Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
-
 - **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan,Raj Kuwar Gupta,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
 
 ## Distantly Relation Extraction
 
-- **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
+- **self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
 
 
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
