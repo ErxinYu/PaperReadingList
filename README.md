@@ -28,13 +28,12 @@
 - **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan,Tong Wang,Rui Meng,Khushboo Thaker,Peter Brusilovsky,Daqing He,Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
 - **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin,Ygor Gallina,Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
 - **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen,Hou Pong Chan,Piji Li,Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
+
 - **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan,Raj Kuwar Gupta,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
 
 ## Distantly Relation Extraction
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
-
-
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang, Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
