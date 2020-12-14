@@ -28,7 +28,6 @@
 - **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan,Tong Wang,Rui Meng,Khushboo Thaker,Peter Brusilovsky,Daqing He,Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
 - **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin,Ygor Gallina,Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
 - **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen,Hou Pong Chan,Piji Li,Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
-
 - **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan,Raj Kuwar Gupta,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
 
 ## Distantly Relation Extraction
@@ -69,7 +68,6 @@
 ## Few-shot Relation Rxtraction
 
 -  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514)
-
 -  **FewRel 2.0: Towards more challenging few-shot relation classification**. *Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou.* EMNLP2019. [[paper\]](https://doi.org/10.18653/v1/D19-1649)
 -  **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. *Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun.* AAAI 2019. [[paper\]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
 -  **Matching the blanks: Distributional similarity for relation learning**. *Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski.* ACL 2019. [[paper\]](https://doi.org/10.18653/v1/P19-1279)
