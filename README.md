@@ -32,7 +32,7 @@
 
 ## KeyPhrase Extraction
 
-- **A Review of Keyphrase Extraction.** Eirini Papagiannopoulou, Grigorios Tsoumakas.* Arxiv 2020. [[paper]](https://arxiv.org/pdf/1905.05044.pdf)
+- **A Review of Keyphrase Extraction.** *Eirini Papagiannopoulou, Grigorios Tsoumakas.* Arxiv 2020. [[paper]](https://arxiv.org/pdf/1905.05044.pdf)
 - **DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases.** *Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, Jian-Yun Nie.* SIGIR 2019. [[paper]](https://arxiv.org/pdf/1905.07689.pdf)
 - **Bi-LSTM-CRF Sequence Labeling for Keyphrase Extraction from Scholarly Documents.** Rabah A. Al-Zaidy, Cornelia Caragea, C. Lee Giles.* WWW 2019. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3308558.3313642)
 - **Simple Unsupervised Keyphrase Extraction using Sentence Embeddings.** *Kamil Bennani-Smires, Claudiu Musat, Andreea Hossmann, Michael Baeriswyl, Martin Jaggi.* CONLL 2018. [[paper]](https://arxiv.org/pdf/1905.07689.pdf)
@@ -54,7 +54,7 @@
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang, Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
 - **DIAG-NRE: A Neural pattern Diagnosis Framwork for Distantly Supervised Neural Relation Extraction.**  ACL 2019. *Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu, Wei Xu* [[paper]](https://pdfs.semanticscholar.org/96b4/f3633d9544593aa6c50949e345d4016c8b48.pdf?_ga=2.234154974.1922655975.1565091217-775842260.1562830956)
-- **ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification.**  ** *Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1135.pdf)
+- **ARNOR: Attention Regularization based Noise Reduction for Distant Supervision Relation Classification. ** *Wei Jia, Dai Dai, Xinyan Xiao and Hua Wu.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1135.pdf)
 - **Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation Maximization Framework.** *Junfan Chen, Richong Zhang, Yongyi Mao, Hongyu Guo and Jie Xu.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1909.05448.pdf)
 - **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction.** *Yuyun Huang and Jinhua Du.* EMNLP 2019. [[paper]](https://www.aclweb.org/anthology/D19-1037.pdf)
 - **Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction.** *Linmei Hu, Luhao Zhang, Chuan Shi, Liqiang Nie, Weili Guan and Cheng Yang.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1904.09331.pdf)
@@ -67,7 +67,7 @@
 - **Cross-relation Cross-bag Attention for Distantly-supervised Relation Extraction.** *Yujin Yuan, Liyuan Liu, Siliang Tang , Zhongfei Zhang, Yueting Zhuang, Shiliang Pu, Fei Wu, Xiang Ren.* AAAI 2019. [[paper]](https://arxiv.org/pdf/1812.10604.pdf)
 - **Relation Extraction Using Supervision from Topic Knowledge of Relation Labels.** *Haiyun Jiang, Li Cui, Zhe Xu, Deqing Yang, Jindong Chen, Chenguang Li, Jingping Liu, Jiaqing Liang, Chao Wang, Yanghua Xiao, Wei Wang IJCAI 2019.* [[paper]](https://www.ijcai.org/Proceedings/2019/0698.pdf)
 - **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.** *Pengda Qin, Weiran Xu, William Yang Wang* ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1199)
-- **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.** *Pengda Qin, Weiran Xu, William Yang Wang.*ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1046)
+- **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.** *Pengda Qin, Weiran Xu, William Yang Wang.* ACL 2018. [[paper]](https://www.aclweb.org/anthology/P18-1046)
 - **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction.** *Ningyu Zhang, Shumin Deng, Zhanlin Sun, Xi Chen, Wei Zhang, Huajun Chen* ACL 2018.  [[short paper]](https://www.aclweb.org/anthology/D18-1120.pdf)
 - **Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding.** *Guanying Wang, Wen Zhang, Ruoxu Wang, Yalin Zhou, Xi Chen, Wei Zhang, Hai Zhu, Huajun Chen.* EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1248)
 - **RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information.** *Shikhar Vashishth, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, Partha Talukdar.* EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1157.pdf)
@@ -84,17 +84,17 @@
 
 ## Few-shot Relation Rxtraction
 
--  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514
+-  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514)
 -  **FewRel 2.0: Towards more challenging few-shot relation classification**. *Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou.* EMNLP2019. [[paper\]](https://doi.org/10.18653/v1/D19-1649)
 -  **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. *Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun.* AAAI 2019. [[paper\]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
 -  **Matching the blanks: Distributional similarity for relation learning**. *Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski.* ACL 2019. [[paper\]](https://doi.org/10.18653/v1/P19-1279)
--  **Multi-level matching and aggregation network for few-shot relation classification**. *Zhi-Xiu Ye and Zhen-Hua Ling.*ACL 2019. [[paper]](https://doi.org/10.18653/v1/P19-1277)
+-  **Multi-level matching and aggregation network for few-shot relation classification**. *Zhi-Xiu Ye and Zhen-Hua Ling.* ACL 2019. [[paper]](https://doi.org/10.18653/v1/P19-1277)
 
 ## Document-level Relation Rxtraction
 
--  **Double Graph Based Reasoning for Document-level Relation Extraction.** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.13752.pdf) 
--  **Global-to-Local Neural Networks for Document-Level Relation Extraction**. *Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.10359.pdf) 
--  **Denoising Relation Extraction from Document-level Distant Supervision**. *Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin.* EMNLP2020. [[short paper]](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)
+-  **Double Graph Based Reasoning for Document-level Relation Extraction.** *Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.13752.pdf) 
+-  **Global-to-Local Neural Networks for Document-Level Relation Extraction**. *Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.* EMNLP2020. [[paper]](https://arxiv.org/pdf/2009.10359.pdf) 
+-  **Denoising Relation Extraction from Document-level Distant Supervision**. *Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin.* EMNLP2020. [[short paper]](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf)
 
 ## Other Relation Rxtraction (Supervied, OpenIE, Overview, etc.)
 
@@ -149,7 +149,4 @@
 ## Resources
 
 - [funNLP](https://github.com/fighting41love/funNLP)
-- [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
-
-
-
+- [OpenNRE](
