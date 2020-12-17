@@ -149,4 +149,4 @@
 ## Resources
 
 - [funNLP](https://github.com/fighting41love/funNLP)
-- [OpenNRE](
+- [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
