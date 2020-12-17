@@ -16,23 +16,42 @@
 
 - **Deep Keyphrase Generation.** *Rui Meng, Sanqiang Zhao, Shuguang Han, Daqing He, Peter Brusilovsky, Yu Chi.* ACL 2017. [[paper]](https://arxiv.org/pdf/1704.06879.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
 - **Semi-Supervised Learning for Neural Keyphrase Generation.** *Hai Ye and Lu Wang*. EMNLP 2018. [[paper]](https://www.aclweb.org/anthology/D18-1447.pdf)
-- **Keyphrase Generation with Correlation Constraints.** *Jun Chen,Xiaoming Zhang,Yu Wu,Zhao Yan,Zhoujun Li*. EMNLP 2018. [[paper]](https://arxiv.org/pdf/1808.07185.pdf)
+- **Keyphrase Generation with Correlation Constraints.** *Jun Chen, Xiaoming Zhang, Yu Wu,Zhao Yan,Zhoujun Li*. EMNLP 2018. [[paper]](https://arxiv.org/pdf/1808.07185.pdf)
 - **Does Order Matter? An Empirical Study on Generating Multiple Keyphrases as a Sequence.** *Meng, Rui and Yuan, Xingdi and Wang, Tong and Brusilovsky, Peter and Trischler, Adam and He, Daqing*. Arxiv 2018. [[paper]](https://arxiv.org/pdf/1909.03590.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
-- **An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction.** *Wang Chen,Hou Pong Chan,Piji Li,Lidong Bing,Irwin King.* NAACL 2019. [[paper]](https://arxiv.org/pdf/1904.03454.pdf)[[code]](https://github.com/Chen-Wang-CUHK/KG-KE-KR-M)
-- **Keyphrase Generation: A Text Summarization Struggle.** *Erion Çano,Ondřej Bojar.* NAACL 2019. [[short paper]](https://www.aclweb.org/anthology/N19-1070.pdf)
-- **Incorporating Linguistic Constraints into Keyphrase Generation.** *Jing Zhao,Yuxiang Zhang.* ACL 2019. [[paper]](https://arxiv.org/pdf/1808.06773.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
-- **Topic-Aware Neural Keyphrase Generation for Social Media Language.** *Yue Wang,Jing Li,Hou Pong Chan,Irwin King,Michael R. Lyu,Shuming Shi.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1240.pdf)[[code]](https://github.com/yuewang-cuhk/TAKG)
-- **Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards.** *Hou Pong Chan,Wang Chen,Lu Wang,Irwin King.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1208.pdf)[[code]](https://github.com/kenchan0226/keyphrase-generation-rl)
-- **Title-Guided Encoding for Keyphrase Generation.** *Wang Chen,Yifan Gao,Jiani Zhang,Irwin King,Michael R. Lyu.* AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4587)
-- **A Preliminary Exploration of GANs for Keyphrase Generation.** *Avinash Swaminathan,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah,Amanda Stent.* EMNLP 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
-- **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan,Tong Wang,Rui Meng,Khushboo Thaker,Peter Brusilovsky,Daqing He,Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
-- **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin,Ygor Gallina,Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
-- **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen,Hou Pong Chan,Piji Li,Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
-- **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan,Raj Kuwar Gupta,Haimin Zhang,Debanjan Mahata,Rakesh Gosangi,Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
+- **An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction.** *Wang Chen, Hou Pong Chan, Piji Li, Lidong Bing, Irwin King.* NAACL 2019. [[paper]](https://arxiv.org/pdf/1904.03454.pdf)[[code]](https://github.com/Chen-Wang-CUHK/KG-KE-KR-M)
+- **Keyphrase Generation: A Text Summarization Struggle.** *Erion Çano, Ondřej Bojar.* NAACL 2019. [[short paper]](https://www.aclweb.org/anthology/N19-1070.pdf)
+- **Incorporating Linguistic Constraints into Keyphrase Generation.** *Jing Zhao, Yuxiang Zhang.* ACL 2019. [[paper]](https://arxiv.org/pdf/1808.06773.pdf)[[code]](https://github.com/memray/OpenNMT-kpg-release)
+- **Topic-Aware Neural Keyphrase Generation for Social Media Language.** *Yue Wang, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1240.pdf)[[code]](https://github.com/yuewang-cuhk/TAKG)
+- **Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards.** *Hou Pong Chan, Wang Chen, Lu Wang, Irwin King.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1208.pdf)[[code]](https://github.com/kenchan0226/keyphrase-generation-rl)
+- **Title-Guided Encoding for Keyphrase Generation.** *Wang Chen, Yifan Gao, Jiani Zhang, Irwin King,Michael R. Lyu.* AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4587)
+- **A Preliminary Exploration of GANs for Keyphrase Generation.** *Avinash Swaminathan, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah, Amanda Stent.* EMNLP 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
+- **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan, Tong Wang, Rui Meng, Khushboo Thaker, Peter Brusilovsky, Daqing He, Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
+- **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin, Ygor Gallina, Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
+- **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen, Hou Pong Chan, Piji Li, Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
+- **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan, Raj Kuwar Gupta, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
+
+## KeyPhrase Extraction
+
+- **A Review of Keyphrase Extraction.** Eirini Papagiannopoulou, Grigorios Tsoumakas.* Arxiv 2020. [[paper]](https://arxiv.org/pdf/1905.05044.pdf)
+- **DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases.** *Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, Jian-Yun Nie.* SIGIR 2019. [[paper]](https://arxiv.org/pdf/1905.07689.pdf)
+- **Bi-LSTM-CRF Sequence Labeling for Keyphrase Extraction from Scholarly Documents.** Rabah A. Al-Zaidy, Cornelia Caragea, C. Lee Giles.* WWW 2019. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3308558.3313642)
+- **Simple Unsupervised Keyphrase Extraction using Sentence Embeddings.** *Kamil Bennani-Smires, Claudiu Musat, Andreea Hossmann, Michael Baeriswyl, Martin Jaggi.* CONLL 2018. [[paper]](https://arxiv.org/pdf/1905.07689.pdf)
+- **Bidirectional LSTM recurrent neural network for keyphrase extraction.** *Basaldella, M., Antolli, E., Serra, G. and Tasso, C.* IRCDL 2018. [[paper]](https://doi.org/10.1007/978-3-319-73165-0_18)
+- **Simple unsupervised keyphrase extraction using sentence embeddings.** Bennani-Smires, K., Musat, C., Hossmann, A., Baeriswyl, M. and Jaggi, M.* CONLL 2018. [[paper]](https://doi.org/10.1007/978-3-319-73165-0_18)
+- **Unsupervised keyphrase extraction with multipartite graphs.** *Boudin, F.* NAACL 2018. [[paper]](https://aclanthology.info/papers/N18-2105/n18-2105)
+- **PositionRank: An unsupervised approach to keyphrase extraction from scholarly documents. ** *Florescu, C. and Caragea, C.* ACL 2017. [[paper]](https://aclanthology.info/papers/N18-2105/n18-2105)
+- **Incorporating expert knowledge into keyphrase extraction. ** *Gollapalli, S. D., Li, X. and Yang, P.* AAAI 2017. [[paper]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14628)
+- **Keyphrase annotation with graph co-ranking. ** *Bougouin, A., Boudin, F. and Daille, B.* COLING 2016. [[paper]](http://aclweb.org/anthology/C/C16/C16-1277.pdf)
+- **TopicRank: Graph-based topic ranking for keyphrase extraction. ** *Adrien Bougouin and Florian Boudin and Beatrice Daille.* IJCNLP 2013. [[paper]](https://www.aclweb.org/anthology/I13-1062.pdf)
+- **Extracting keyphrases from research papers using citation networks. ** *Bougouin, A., Boudin, F. and Daille, B.* IJCNLP 2013. [[paper]](http://aclweb.org/anthology/I/I13/I13-1062.pdf)
+
+
 
 ## Distantly Relation Extraction
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
+
+
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang, Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
@@ -68,6 +87,7 @@
 ## Few-shot Relation Rxtraction
 
 -  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514)
+
 -  **FewRel 2.0: Towards more challenging few-shot relation classification**. *Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou.* EMNLP2019. [[paper\]](https://doi.org/10.18653/v1/D19-1649)
 -  **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. *Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun.* AAAI 2019. [[paper\]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
 -  **Matching the blanks: Distributional similarity for relation learning**. *Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski.* ACL 2019. [[paper\]](https://doi.org/10.18653/v1/P19-1279)
@@ -97,11 +117,11 @@
 
 ## Multi-label classification
 
-Multi-Label Learning with Global and Local Label Correlation  
-Exploring Correlation between Labels to improve Multi-Label Classification  
-Multi-Label Learning by Exploiting Label Correlations Locally  
-SGM: Sequence Generation Model for Multi-label Classification  
-Deep Learning with a Rethinking Structure for Multi-label Classification
+- **Multi-Label Learning with Global and Local Label Correlation **
+- **Exploring Correlation between Labels to improve Multi-Label Classification**  
+- **Multi-Label Learning by Exploiting Label Correlations Locally**  
+- **SGM: Sequence Generation Model for Multi-label Classification  **
+- **Deep Learning with a Rethinking Structure for Multi-label Classification**
 
 
 ## Hierarchical Classification
@@ -136,9 +156,9 @@ Deep Learning with a Rethinking Structure for Multi-label Classification
 
 ## Resources
 
-[funNLP](https://github.com/fighting41love/funNLP)
+- [funNLP](https://github.com/fighting41love/funNLP)
 
-[OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
+- [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
 
 
 
