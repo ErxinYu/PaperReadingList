@@ -39,19 +39,17 @@
 - **Bidirectional LSTM recurrent neural network for keyphrase extraction.** *Basaldella, M., Antolli, E., Serra, G. and Tasso, C.* IRCDL 2018. [[paper]](https://doi.org/10.1007/978-3-319-73165-0_18)
 - **Simple unsupervised keyphrase extraction using sentence embeddings.** Bennani-Smires, K., Musat, C., Hossmann, A., Baeriswyl, M. and Jaggi, M.* CONLL 2018. [[paper]](https://doi.org/10.1007/978-3-319-73165-0_18)
 - **Unsupervised keyphrase extraction with multipartite graphs.** *Boudin, F.* NAACL 2018. [[paper]](https://aclanthology.info/papers/N18-2105/n18-2105)
-- **PositionRank: An unsupervised approach to keyphrase extraction from scholarly documents. ** *Florescu, C. and Caragea, C.* ACL 2017. [[paper]](https://aclanthology.info/papers/N18-2105/n18-2105)
-- **Incorporating expert knowledge into keyphrase extraction. ** *Gollapalli, S. D., Li, X. and Yang, P.* AAAI 2017. [[paper]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14628)
-- **Keyphrase annotation with graph co-ranking. ** *Bougouin, A., Boudin, F. and Daille, B.* COLING 2016. [[paper]](http://aclweb.org/anthology/C/C16/C16-1277.pdf)
-- **TopicRank: Graph-based topic ranking for keyphrase extraction. ** *Adrien Bougouin and Florian Boudin and Beatrice Daille.* IJCNLP 2013. [[paper]](https://www.aclweb.org/anthology/I13-1062.pdf)
-- **Extracting keyphrases from research papers using citation networks. ** *Bougouin, A., Boudin, F. and Daille, B.* IJCNLP 2013. [[paper]](http://aclweb.org/anthology/I/I13/I13-1062.pdf)
+- **PositionRank: An unsupervised approach to keyphrase extraction from scholarly documents.** *Florescu, C. and Caragea, C.* ACL 2017. [[paper]](https://aclanthology.info/papers/N18-2105/n18-2105)
+- **Incorporating expert knowledge into keyphrase extraction.** *Gollapalli, S. D., Li, X. and Yang, P.* AAAI 2017. [[paper]](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14628)
+- **Keyphrase annotation with graph co-ranking.** *Bougouin, A., Boudin, F. and Daille, B.* COLING 2016. [[paper]](http://aclweb.org/anthology/C/C16/C16-1277.pdf)
+- **TopicRank: Graph-based topic ranking for keyphrase extraction.** *Adrien Bougouin and Florian Boudin and Beatrice Daille.* IJCNLP 2013. [[paper]](https://www.aclweb.org/anthology/I13-1062.pdf)
+- **Extracting keyphrases from research papers using citation networks.** *Bougouin, A., Boudin, F. and Daille, B.* IJCNLP 2013. [[paper]](http://aclweb.org/anthology/I/I13/I13-1062.pdf)
 
 
 
 ## Distantly Relation Extraction
 
 - **Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction.** *Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.11899.pdf)
-
-
 - **Are Noisy Sentences Useless for Distant Supervised Relation Extraction?.** *Yu-Ming Shang, He-Yan Huang, Xian-Ling Mao, Xin Sun1,Wei Wei.* AAAI 2020. [[paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-ShangY.133.pdf)
 - **Improving Neural Relation Extraction with Positive and Unlabeled Learning.** *Zhengqiu He and Wenliang Chen and Yuyi Wang, Wei Zhang and Guanchun Wang and Min Zhang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1911.12556.pdf)
 - **Fine-tuning pre-Train Transformer Language Models to Distantly Supervised Relation Etraction.** *Christoph Alt, Marc Hübner, Leonhard Hennig.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1134) [[code]](https://github.com/DFKI-NLP/DISTRE)
@@ -86,8 +84,7 @@
 
 ## Few-shot Relation Rxtraction
 
--  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514)
-
+-  **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. *Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun.* EMNLP 2018. [[paper\]](https://www.aclweb.org/anthology/D18-1514
 -  **FewRel 2.0: Towards more challenging few-shot relation classification**. *Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou.* EMNLP2019. [[paper\]](https://doi.org/10.18653/v1/D19-1649)
 -  **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. *Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun.* AAAI 2019. [[paper\]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
 -  **Matching the blanks: Distributional similarity for relation learning**. *Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski.* ACL 2019. [[paper\]](https://doi.org/10.18653/v1/P19-1279)
@@ -117,20 +114,18 @@
 
 ## Multi-label classification
 
-- **Multi-Label Learning with Global and Local Label Correlation **
+- **Multi-Label Learning with Global and Local Label Correlation**
 - **Exploring Correlation between Labels to improve Multi-Label Classification**  
 - **Multi-Label Learning by Exploiting Label Correlations Locally**  
-- **SGM: Sequence Generation Model for Multi-label Classification  **
+- **SGM: Sequence Generation Model for Multi-label Classification**
 - **Deep Learning with a Rethinking Structure for Multi-label Classification**
 
 
 ## Hierarchical Classification
 
 - **Hierarchical Text Classification with Reinforced Label Assignment.** EMNLP2019. [[paper]](https://arxiv.org/pdf/1908.10419.pdf)
-
 - **A survey of hierarchical classification across different application domains.** 2012.[[paper]](https://link.springer.com/content/pdf/10.1007/s10618-010-0175-9.pdf)
 - **Top-down Strategies for Hierarchical Classification of Transposable Elements with Neural Networks.** *Felipe Kenji Nakano.* ICACCT 2017.[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7966165)
-
 - **大规模分类任务的分层学习** *胡清华* [[paper]](http://121.194.63.124/Slides/Huqinghua-MLA2017.pdf)
 
 ## Label Embedding, Label-Specific 
@@ -147,17 +142,13 @@
 ## Avaiable Tecnology
 
 - **Hierarchical Entity Typing via Multi-level Learning to Rank.** ACL2020. [[paper]](https://arxiv.org/pdf/2004.02286.pdf)
-
 - **A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification.** AAAI2019. [[paper]](https://arxiv.org/pdf/1809.03118.pdf)
-
 - **Representation Learning of Knowledge Graphs with Hierarchical Types.** IJCAI 2016.[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_tkrl.pdf)
-
 - **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR.** [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
 ## Resources
 
 - [funNLP](https://github.com/fighting41love/funNLP)
-
 - [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
 
 
