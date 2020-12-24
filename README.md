@@ -24,14 +24,25 @@
 - **Topic-Aware Neural Keyphrase Generation for Social Media Language.** *Yue Wang, Jing Li, Hou Pong Chan, Irwin King, Michael R. Lyu, Shuming Shi.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1240.pdf)[[code]](https://github.com/yuewang-cuhk/TAKG)
 - **Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards.** *Hou Pong Chan, Wang Chen, Lu Wang, Irwin King.* ACL 2019. [[paper]](https://www.aclweb.org/anthology/P19-1208.pdf)[[code]](https://github.com/kenchan0226/keyphrase-generation-rl)
 - **Title-Guided Encoding for Keyphrase Generation.** *Wang Chen, Yifan Gao, Jiani Zhang, Irwin King,Michael R. Lyu.* AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/4587)
+- **Keyphrase Generation: A Text Summarization Struggle.** *Erion Çano, Ondřej Bojar.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1070.pdf)
+- **Keyphrase Generation Using Sequence-to-Sequence Models.** *Ehsan Doostmohammadi, Mohammad Hadi Bokaei, Hossein Sameti.* ICEE 2019. [[paper]](https://arxiv.org/pdf/2009.12271.pdf)
+- **Keyphrase Generation: A Multi-Aspect Survey.** *Erion Çano, Ondřej Bojar.* ArXiv:1910. [[paper]](https://arxiv.org/pdf/1910.05059.pdf)
+- **BSDAR: Beam Search Decoding with Attention Reward in Neural Keyphrase Generation.** *Iftitahu Ni'mah, Vlado Menkovski, Mykola Pechenizkiy.* ArXiv:1909. [[paper]](https://arxiv.org/pdf/1909.09485.pdf)
+- 
 - **A Preliminary Exploration of GANs for Keyphrase Generation.** *Avinash Swaminathan, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah, Amanda Stent.* EMNLP 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
 - **One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases.** *Xingdi Yuan, Tong Wang, Rui Meng, Khushboo Thaker, Peter Brusilovsky, Daqing He, Adam Trischler.* ACL 2020. [[paper]](https://arxiv.org/pdf/1810.05241.pdf)
 - **Keyphrase Generation for Scientific Document Retrieval.** *Florian Boudin, Ygor Gallina, Akiko Aizawa.* ACL 2020 (short paper). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)[[code]](https://github.com/boudinfl/ir-using-kg)
 - **Exclusive Hierarchical Decoding for Deep Keyphrase Generation.** *Wang Chen, Hou Pong Chan, Piji Li, Irwin King.* ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.103.pdf)[[code]](https://github.com/Chen-Wang-CUHK/ExHiRD-DKG)
 - **Keyphrase Generation for Scientific Articles Using GANs.** *Avinash Swaminathan, Raj Kuwar Gupta, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah.* AAAI 2020 (short paper). [[paper]](https://arxiv.org/pdf/1909.12229.pdf)[[code]](https://github.com/avinsit123/keyphrase-gan)
+- **TAN-NTM: Topic Attention Networks for Neural Topic Modeling.** *Madhur Panwar, Shashank Shailabh, Milan Aggarwal, Balaji Krishnamurthy.* ArXiv:2012.01524 [[paper]](https://arxiv.org/pdf/2012.01524.pdf)
+- **Diverse Keyphrase Generation with Neural Unlikelihood Training.** *Hareesh Bahuleyan, Layla El Asri.* COLING 2020. [[paper]](https://arxiv.org/pdf/2010.07665.pdf)
+- **An Empirical Study on Neural Keyphrase Generation.** *Rui Meng, Xingdi Yuan, Tong Wang, Sanqiang Zhao, Adam Trischler, Daqing He.* ArXiv:2009.10229 . [[paper]](https://arxiv.org/pdf/2009.10229.pdf)
+- **Select, Extract and Generate: Neural Keyphrase Generation with Syntactic Guidance.** *Wasi Uddin Ahmad, Xiao Bai, Soomin Lee, Kai-Wei Chang.* ArXiv:2008. [[paper]](https://arxiv.org/pdf/2008.01739.pdf)
+- 
 
-## KeyPhrase Extraction
+## KeyPhrase Extraction/Prediction
 
+- **Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings.** *Yue Wang, Jing Li, Michael R. Lyu, Irwin King.* EMNLP 2020. [[paper]](https://arxiv.org/pdf/2011.01565.pdf)[[code]](https://github.com/yuewang-cuhk/CMKP)]
 - **A Review of Keyphrase Extraction.** *Eirini Papagiannopoulou, Grigorios Tsoumakas.* Arxiv 2020. [[paper]](https://arxiv.org/pdf/1905.05044.pdf)
 - **DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases.** *Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng, Jian-Yun Nie.* SIGIR 2019. [[paper]](https://arxiv.org/pdf/1905.07689.pdf)
 - **Bi-LSTM-CRF Sequence Labeling for Keyphrase Extraction from Scholarly Documents.** Rabah A. Al-Zaidy, Cornelia Caragea, C. Lee Giles.* WWW 2019. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3308558.3313642)
@@ -44,8 +55,6 @@
 - **Keyphrase annotation with graph co-ranking.** *Bougouin, A., Boudin, F. and Daille, B.* COLING 2016. [[paper]](http://aclweb.org/anthology/C/C16/C16-1277.pdf)
 - **TopicRank: Graph-based topic ranking for keyphrase extraction.** *Adrien Bougouin and Florian Boudin and Beatrice Daille.* IJCNLP 2013. [[paper]](https://www.aclweb.org/anthology/I13-1062.pdf)
 - **Extracting keyphrases from research papers using citation networks.** *Bougouin, A., Boudin, F. and Daille, B.* IJCNLP 2013. [[paper]](http://aclweb.org/anthology/I/I13/I13-1062.pdf)
-
-
 
 ## Distantly Relation Extraction
 
@@ -144,7 +153,12 @@
 - **Hierarchical Entity Typing via Multi-level Learning to Rank.** ACL2020. [[paper]](https://arxiv.org/pdf/2004.02286.pdf)
 - **A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification.** AAAI2019. [[paper]](https://arxiv.org/pdf/1809.03118.pdf)
 - **Representation Learning of Knowledge Graphs with Hierarchical Types.** IJCAI 2016.[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_tkrl.pdf)
-- **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR.** [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
+- **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs.** CVPR. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
+- **PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation.** *Xinyu Hua, Lu Wang.* EMNLP 2020. [[paper]](https://arxiv.org/pdf/2010.02301.pdf)
+- **Learning to Create Better Ads: Generation and Ranking Approaches for Ad Creative Refinement.** *Shaunak Mishra, Manisha Verma, Yichao Zhou, Kapil Thadani, Wei Wang.* CIKM 2020. [[paper]](https://arxiv.org/pdf/2008.07467.pdf)
+- **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation.** *Dayiheng Liu, Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan.* EMNLP 2020. [[paper]](https://arxiv.org/pdf/2004.03875.pdf)
+- **Sentence-Level Content Planning and Style Specification for Neural Text Generation.** *Xinyu Hua, Lu Wang.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1909.00734.pdf)
+- **WriterForcing: Generating more interesting story endings.** *Xinyu Hua, Lu Wang.* ACL Workshop 2019. [[paper]](Prakhar Gupta, Vinayshekhar Bannihatti Kumar, Mukul Bhutani, Alan W Black)
 
 ## Resources
 
