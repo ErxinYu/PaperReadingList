@@ -156,9 +156,10 @@
 - **Learning to Create Better Ads: Generation and Ranking Approaches for Ad Creative Refinement.** *Shaunak Mishra, Manisha Verma, Yichao Zhou, Kapil Thadani, Wei Wang.* CIKM 2020. [[paper]](https://arxiv.org/pdf/2008.07467.pdf)
 - **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation.** *Dayiheng Liu, Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan.* EMNLP 2020. [[paper]](https://arxiv.org/pdf/2004.03875.pdf)
 - **Sentence-Level Content Planning and Style Specification for Neural Text Generation.** *Xinyu Hua, Lu Wang.* EMNLP 2019. [[paper]](https://arxiv.org/pdf/1909.00734.pdf)
-- **WriterForcing: Generating more interesting story endings.** *Xinyu Hua, Lu Wang.* ACL Workshop 2019. [[paper]](Prakhar Gupta, Vinayshekhar Bannihatti Kumar, Mukul Bhutani, Alan W Black)
+- **WriterForcing: Generating more interesting story endings.** *Xinyu Hua, Lu Wang.* ACL Workshop 2019. [[paper]](https://arxiv.org/pdf/1907.08259.pdf)
 
 ## Resources
 
 - [funNLP](https://github.com/fighting41love/funNLP)
-- [OpenNRE](
+- [OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
+
